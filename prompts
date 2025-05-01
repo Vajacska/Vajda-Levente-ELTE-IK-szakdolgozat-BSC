@@ -1,0 +1,2139 @@
+1|mentor|Általános|
+Kérlek, elemezd a PowerPoint prezentációm tartalmát, és adj szakértői tanácsokat, hogyan optimalizálhatom azt felsővezetői közönség számára. Alább találod a prezentáció tartalmát. Szeretnék világos, tömör és hatásos prezentációt készíteni, amely megragadja a figyelmet és könnyedén átadja a kulcsüzeneteket.
+
+## Példák korábbi prezentációk elemzésére:    
+
+### Példa 1
+
+**Eredeti prezentáció:**
+prezentációm:
+1. oldal címe: Q4 Pénzügyi Eredmények
+1. oldal tartalma: - 2023 Q4 bevétel: 3.2M EUR
+- 4.5% növekedés az előző negyedévhez képest  
+- EBITDA: 780K EUR
+- Költségcsökkentés: 340K EUR
+- Új ügyfelek: 12
+
+2. oldal címe: Kihívások
+2. oldal tartalma: Az IT infrastruktúra frissítésének késése a szállítói problémák miatt. A toborzás lassabban halad a vártnál, 4 kritikus pozíció még betöltetlen. A német piaci expanzió lassabb a vártnál.
+
+3. oldal címe: Következő lépések
+3. oldal tartalma: - IT beszállító váltás mérlegelése
+- Új HR stratégia kidolgozása
+- Német partnerhálózat bővítése
+- Értékesítési csapat képzése
+
+**Elemzés és javaslatok:**
+
+1. **Átfogó értékelés:**
+   A prezentáció alapvetően jó struktúrájú (eredmények, kihívások, tervek), de túl adatközpontú és hiányzik belőle a stratégiai összefüggések bemutatása.
+
+2. **Oldalonkénti javaslatok:**
+   
+   **1. oldal - Pénzügyi Eredmények:**
+   - A számok önmagukban nem beszélnek. Kontextust kell adni: hogyan viszonyulnak a célkitűzésekhez?     
+   - Javaslat: Használj egy egyszerű grafikont, amely mutatja a trendet az elmúlt 4 negyedévre.
+   - Az 5 különálló adatpont helyett csoportosítsd őket: "Pénzügyi teljesítmény" és "Növekedési mutatók".
+   - Adj hozzá egy rövid "Fő üzenet" részt, amely kiemeli a legfontosabb következtetést.        
+
+   **2. oldal - Kihívások:**
+   - A kihívások felsorolása helyett mutasd be a hatásukat és jelentőségüket.
+   - Javaslat: Minden kihíváshoz rendelj egy "Üzleti hatás" értékelést (Magas/Közepes/Alacsony).
+   - Strukturáld a problémákat: "Működési kihívások" vs. "Stratégiai kihívások".
+
+   **3. oldal - Következő lépések:**
+   - A felsorolás túl általános, határidők és felelősök nélkül.
+   - Javaslat: Használj 2x2-es mátrixot a prioritások meghatározásához (Hatás vs. Erőfeszítés).
+   - Minden lépéshez adj felelőst és határidőt.
+   - Zárd egy "Elvárt eredmények" szekcióval, amely összeköti a terveket az üzleti célokkal.
+
+3. **Általános formázási javaslatok:**
+   - Minden oldalon legyen egy világos fő üzenet 1-2 mondatban.
+   - Használj vizuális elemeket az adatok bemutatására.
+   - Maximum 3-5 kulcspontot szerepeltess oldalanként.
+   - A címeket alakítsd át aktív állításokká (pl. "Német piaci bővülésünk felgyorsítása" a sima "Német piac" helyett).
+
+### Példa 2
+
+**Eredeti prezentáció:**
+prezentációm:
+1. oldal címe: Új Termékfejlesztési Javaslat
+1. oldal tartalma: A jelenlegi termékportfóliónk kiegészítéseként javaslunk egy új, felhőalapú szolgáltatást, amely a kis- és középvállalkozások számára nyújt automatizált könyvelési megoldást. A termék fejlesztése várhatóan 8 hónapot vesz igénybe és 450.000 EUR befektetést igényel. A piacelemzés alapján az első évben 1200 előfizetőre számítunk.
+
+2. oldal címe: Piaci lehetőség
+2. oldal tartalma: A célpiac mérete 45.000 KKV a régiónkban. A hasonló megoldások penetrációja jelenleg 15%. Versenytársak: Accounting Pro (30% piaci részesedés), EasyBooks (25%), egyéb kisebb szereplők (25%). Kutatásaink szerint a KKV-k 60%-a tervezi a könyvelési folyamatok digitalizálását a következő 
+2 évben.
+3. oldal címe: Fejlesztési terv
+3. oldal tartalma: Fázis 1: Tervezés és architektúra (2 hónap)
+Fázis 2: Alap funkcionalitás fejlesztése (3 hónap)
+Fázis 3: Integrációk és bővített funkciók (2 hónap)
+Fázis 4: Tesztelés és finomhangolás (1 hónap)
+A fejlesztési csapat: 3 senior fejlesztő, 2 junior fejlesztő, 1 UX designer, 1 QA szakember, 1 termékmenedzser.
+
+**Elemzés és javaslatok:**
+
+1. **Átfogó értékelés:**
+   A prezentáció információgazdag, de túlzottan részletes egy felsővezetői közönség számára. Hiányzik az üzleti értékre és stratégiai illeszkedésre való fókuszálás.
+
+2. **Oldalonkénti javaslatok:**
+
+   **1. oldal - Termékfejlesztési Javaslat:**
+   - A nyitóoldalon túl sok a részlet, hiányzik a "miért fontos ez?" aspektus.
+   - Javaslat: Kezdd egy erős állítással a piaci lehetőségről és az üzleti hatásról.
+   - Emeld ki a várható megtérülést és a stratégiai előnyöket.
+   - A technikai részletek helyett fókuszálj az értékteremtésre.
+   - Példa jobb címre: "Felhőalapú könyvelés: 2M EUR bevételi lehetőség 2 éven belül"
+
+   **2. oldal - Piaci lehetőség:**
+   - Az adatok jók, de nem világos, hogyan illeszkedik a vállalati stratégiába.
+   - Javaslat: Használj egyszerű vizualizációt a piaci részesedések bemutatására.
+   - Hangsúlyozd, miben lesz a megoldásod jobb a versenytársakénál.
+   - Add hozzá: "Stratégiai illeszkedés" szakaszt, ami összeköti a vállalati célokkal.
+
+   **3. oldal - Fejlesztési terv:**
+   - Túl részletes a technikai ütemezés, amire a felsővezetőknek nincs szükségük.
+   - Javaslat: Helyettesítsd egy magasabb szintű ütemtervvel, ami a főbb mérföldköveket és üzleti eredményeket mutatja.
+   - Adj hozzá egy "Erőforrásigény összefoglaló" és "Kockázatkezelés" szekciót.
+   - Zárd egy világos "Döntési pont" szekcióval, amely egyértelművé teszi, mit kérsz a vezetőségtől.
+
+3. **Általános formázási javaslatok:**
+   - Minden oldalon legyen egy "Executive Summary" egy mondatban.
+   - Használj vizuális elemeket: grafikonokat, ikonokat, színkódolást.
+   - Csökkentsd a szöveges tartalmat 50%-kal, csak a lényeget hagyd meg.
+   - Fűzz hozzá egy záróoldalt, ami összefoglalja a kulcselőnyöket és a kért akciókat.
+
+## Kérésem:
+
+Most elemezd az én prezentációmat, és hasonló részletességgel adj tanácsokat, hogyan optimalizálhatom felsővezetői közönség számára.
+
+Kérlek, az elemzésedben térj ki az alábbiakra:
+1. Átfogó értékelés a prezentáció erősségeiről és fejlesztendő területeiről
+2. Oldalonkénti konkrét javaslatok a tartalom és formátum optimalizálására
+3. Általános formázási és strukturálási tanácsok
+4. Példák a kulcselemek átfogalmazására vagy átstrukturálására
+5. Javaslatok vizuális elemekre vagy grafikus megjelenítésre, ahol releváns
+
+2|mentor|Pyramid Principle|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a Pyramid Principle alapján. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám a prezentációmat hatékonyabb felsővezetői kommunikáció érdekében.
+
+## A Pyramid Principle röviden:
+- Top-down kommunikáció: konklúzió → érvek → alátámasztó adatok
+- A legfontosabb, összefoglaló információ előre kerül
+- Az érveket logikusan rendszerezzük a konklúzió alátámasztására
+- A részleteket csak az érvek alátámasztására használjuk
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm szerkezetét a Pyramid Principle szempontjából
+   - A főüzenet/konklúzió elől szerepel, vagy el van rejtve?
+   - Az érvek logikusan támasztják alá a konklúziót?
+   - A részletek megfelelően vannak hierarchiába rendezve?
+
+2. Adj konkrét javaslatokat:
+   - A tartalom átszervezésére a Pyramid Principle szerint
+   - Az oldalcímek javítására (konklúzió/kulcsüzenet megfogalmazása címekben)
+   - Az executive summary kialakítására (ha hiányzik)
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: IT költségvetés elemzése
+1. oldal tartalma: Táblázat az utóbbi 3 év IT kiadásairól kategóriánként
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma: 
+- Versenytársak átlagos IT költése GDP %-ában
+- IT kiadások megoszlása más vállalatoknál
+
+3. oldal címe: IT projektjeink hatékonysága
+3. oldal tartalma:
+- Az utóbbi 5 projekt ROI elemzése
+- Projektátfutási idők összehasonlítása
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- IT költségvetés növelése 15%-kal
+- Fókusz a cloud infrastruktúrára
+- IT csapat bővítése
+
+### Példa kimenet:
+
+# Prezentáció értékelése a Pyramid Principle alapján
+
+## Általános értékelés:
+A jelenlegi prezentáció a klasszikus "bottom-up" megközelítést követi: előbb adatokat mutat be, majd benchmarkokat, hatékonyságot elemez, és csak a végén jut el a konklúzióhoz/javaslatokhoz. A Pyramid Principle fordított strukturálást javasol.
+
+## Fő problémák a Pyramid Principle szempontjából:
+1. A fő konklúzió (IT költségvetés növelése) csak az utolsó diában jelenik meg
+2. Hiányzik az executive summary, ami előre jelezné a fő üzenetet
+3. Az oldalcímek leíró jellegűek, nem közvetítik a kulcsinformációt
+4. Az alátámasztó érvek nincsenek világosan a konklúzióhoz rendelve
+
+## Konkrét javaslatok:
+
+### Új prezentációstruktúra a Pyramid Principle szerint:
+
+1. **Executive Summary: Az IT költségvetés 15%-os növelése szükséges a versenyképességhez**
+   - Fő állítás: Az IT költségvetés növelése és átstrukturálása szükséges
+   - A három fő érv előrevetítése (pl. elmaradunk a versenytársaktól, nem elégséges a jelenlegi ROI, cloud infrastruktúra előnyei)
+   - Várt eredmények rövid összefoglalása
+
+2. **A versenytársakhoz képest 20%-kal alacsonyabb IT kiadásunk versenyhátrányt okoz**
+   - Iparági benchmark adatok részletezése
+   - A lemaradás konkrét következményei
+   - Mely területeken a legnagyobb az elmaradás
+
+3. **IT projektjeink jelenlegi ROI-ja 15%-kal elmarad az elvárttól**
+   - Projekthatékonysági adatok részletezése
+   - A jelenlegi hatékonysági problémák okai
+   - Mely projekttípusok teljesítenek a legjobban
+
+4. **A cloud infrastruktúrára való átállás 30%-os hatékonyságnövekedést eredményezhet**
+   - A cloud megoldások előnyei
+   - Implementációs lépések és költségek
+   - Várható ROI számítások
+
+### Oldalcímek javítása (a Pyramid Principle szerint - állítások, nem témák):
+1. "IT költségvetés elemzése" → "IT költségvetésünk 15%-os növelése szükséges a versenyképesség megőrzéséhez"
+2. "Iparági benchmark" → "Versenytársainkhoz képest 20%-kal alacsonyabb IT befektetésünk veszélyezteti piaci pozíciónkat"
+3. "IT projektjeink hatékonysága" → "IT projektjeink jelenlegi ROI-ja 15%-kal marad el az elvárt szinttől"
+4. "Javaslatok" → "A cloud infrastruktúrára való átállás 30%-os hatékonyságnövekedést eredményezhet"
+
+## Összegzés:
+Az átszervezett prezentáció követi a Pyramid Principle-t: kezdd a fő üzenettel, mutasd be a támogató érveket hierarchikus rendben, majd tárd fel a részleteket. Így a felsővezetők azonnal látják, mit javasolsz és miért, majd fokozatosan kapják meg a részletesebb alátámasztást.
+
+3|mentor|MECE|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a MECE (Mutually Exclusive, Collectively Exhaustive) elv alapján. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám prezentációm logikai szerkezetét.
+
+## A MECE elv röviden:
+- **Mutually Exclusive**: Az információk ne legyenek átfedésben, minden elem különálló kategóriába tartozzon
+- **Collectively Exhaustive**: Az információk együttesen fedjék le a teljes releváns területet, ne maradjon ki semmi fontos
+- A MECE struktúra biztosítja, hogy minden fontos elemet lefedünk, de semmit nem ismételünk feleslegesen
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm MECE szempontból:
+   - Az információk átfedésmentesek (Mutually Exclusive)?
+   - Az információk együttesen teljes képet adnak (Collectively Exhaustive)?
+   - Az oldalak közötti és oldalakon belüli kategorizálás logikus?
+
+2. Adj konkrét javaslatokat:
+   - A tartalom újrakategorizálására a MECE elvek szerint
+   - A hiányzó elemek azonosítására (ha nem "Collectively Exhaustive")
+   - Az átfedések kiküszöbölésére (ha nem "Mutually Exclusive")
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: Termékportfólió teljesítménye
+1. oldal tartalma:
+- A termékek értékesítési adatai
+- Néhány termék piaci részesedése
+- Egyes termékek nyereségessége
+
+2. oldal címe: Értékesítési csatornák
+2. oldal tartalma:
+- Online értékesítési csatornák teljesítménye
+- Kiskereskedelmi partnerek értékesítése
+- Egyes termékek promóciós aktivitása
+
+3. oldal címe: Piaci trendek
+3. oldal tartalma:
+- Versenytársak új termékei
+- Változó fogyasztói preferenciák
+- Új marketing trendek és platformok
+- Online értékesítés növekedése
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- Termékfejlesztés gyorsítása
+- Marketing költségvetés átcsoportosítása
+- Online jelenlét erősítése
+
+### Példa kimenet:
+
+# Prezentáció értékelése a MECE elv alapján
+
+## Általános értékelés:
+A prezentáció tartalmában több nem MECE-konform elemet találtam. Vannak átfedések (pl. online értékesítés több helyen is), és hiányos kategorizálás (pl. termékek esetében csak néhányról van információ, nem a teljes portfólióról).
+
+## Részletes MECE elemzés:
+
+### Nem "Mutually Exclusive" elemek (átfedések):
+1. Az "online értékesítés" megjelenik mind az értékesítési csatornáknál, mind a piaci trendeknél
+2. A "termékek" téma szétszórva jelenik meg több oldalon (teljesítmény, promóciók)
+3. A promóciós aktivitás nem értékesítési csatorna, inkább marketing tevékenység
+
+### Nem "Collectively Exhaustive" elemek (hiányosságok):
+1. A termékportfólió teljesítményénél csak "néhány" és "egyes" termékek adatai jelennek meg
+2. Az értékesítési csatornáknál hiányoznak az offline és B2B csatornák (ha relevánsak)
+3. A piaci trendeknél hiányoznak a szabályozási változások és gazdasági tényezők
+4. A javaslatoknál hiányzik az árazási stratégia és a csatorna optimalizáció
+
+## Konkrét javaslatok a MECE-konform átszervezésre:
+
+### Újrastrukturált tartalomjegyzék:
+
+1. **Termékportfólió teljesítménye**
+   - **Teljes termékportfólió**:
+     - Összes termék értékesítési volumene
+     - Összes termék árbevétele
+     - Összes termék nyereségessége
+   - **Kategóriák szerint**:
+     - A-kategória (pl. prémium termékek)
+     - B-kategória (pl. középkategóriás termékek)
+     - C-kategória (pl. belépő szintű termékek)
+
+2. **Értékesítési csatornák teljesítménye**
+   - **Direkt csatornák**:
+     - Saját webshop
+     - Saját üzletek
+     - Telefonos értékesítés
+   - **Indirekt csatornák**:
+     - Kiskereskedelmi partnerek
+     - Online piacterek
+     - Nagykereskedők
+
+3. **Piaci tényezők**
+   - **Kereslet oldali tényezők**:
+     - Fogyasztói preferenciák változása
+     - Vásárlóerő változása
+     - Szezonalitás
+   - **Kínálat oldali tényezők**:
+     - Versenytársak tevékenysége
+     - Technológiai változások
+     - Szabályozási környezet
+
+4. **Marketing és promóció**
+   - **Online marketing**:
+     - Közösségi média
+     - Keresőhirdetések
+     - Email marketing
+   - **Offline marketing**:
+     - TV/rádió/print
+     - Eseménymarketing
+     - POS anyagok
+
+5. **Átfogó javaslatok**
+   - **Termékstratégia**:
+     - Fejlesztés/kivezetés/módosítás
+   - **Csatornastratégia**:
+     - Csatornák optimalizálása
+   - **Árazási stratégia**:
+     - Árazási módosítások
+   - **Marketing stratégia**:
+     - Költségvetés újraelosztása
+
+## Összegzés:
+Az újraszervezett struktúra MECE-konform: átfedésmentes, teljes kategóriákat használ, és logikusan csoportosítja az információkat. Minden témakör egyértelmű kategóriákba van rendezve, és a kategóriák együttesen adják a teljes képet.
+
+4|mentor|Storytelling|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a hatékony storytelling alapelvek szerint. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám a prezentációm történetmesélési struktúráját felsővezetői közönség számára.
+
+## A hatékony storytelling röviden:
+- A prezentáció egy logikus történetet mesél el (helyzet → komplikáció → kérdés → válasz)
+- A történet elemei egymásra épülnek, létrehozva egy érzelmi ívet
+- A történet feszültséget teremt, majd feloldja azt
+- A hallgatóság számára releváns és könnyen követhető narratívát használ
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm storytelling szempontból:
+   - Van-e benne világos storyline struktúra (helyzet, komplikáció, kérdés, válasz)?
+   - Tartalma logikusan épül-e egymásra?
+   - Van-e benne érzelmi vagy üzleti feszültség, amit felold?
+   - A fő üzenet compelling (meggyőző) formában jelenik meg?
+
+2. Adj konkrét javaslatokat:
+   - A prezentáció átstrukturálására a SCQA framework szerint:
+     - Situation (Helyzet): Mi a jelenlegi állapot?
+     - Complication (Komplikáció): Mi változott vagy mi a probléma?
+     - Question (Kérdés): Mit kell tennünk?
+     - Answer (Válasz): Mi a javaslatunk?
+   - Az érzelmi/üzleti feszültség építésére és feloldására
+   - A kulcsüzenetek impaktteljes megfogalmazására
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: Ügyfélszolgálati statisztikák
+1. oldal tartalma:
+- Válaszidő: 48 óra
+- Elégedettség: 3.2/5
+- Első válaszig eltelt idő: 24 óra
+- Megoldási arány: 76%
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma:
+- Versenytársak átlagos válaszideje: 36 óra
+- Versenytársak elégedettségi mutatója: 3.8/5
+- Versenytársak első válaszideje: 12 óra
+
+3. oldal címe: A chatbot technológia bemutatása
+3. oldal tartalma:
+- MI alapú chatbot jellemzői
+- A bevezetés költségei
+- A várható megtakarítások és hatékonyságjavulás
+
+4. oldal címe: Implementációs terv
+4. oldal tartalma:
+- A bevezetés ütemezése
+- Erőforrásigény
+- Kockázatok és azok kezelése
+
+### Példa kimenet:
+
+# Prezentáció értékelése storytelling szempontból
+
+## Általános értékelés:
+A jelenlegi prezentáció információkat közöl, de nem mesél el egy komplett történetet. Hiányzik a világos storytelling struktúra, amely végigvezetné a hallgatóságot egy érzelmi/üzleti íven. A prezentáció tényeket sorol fel, de nem teremt elég feszültséget a probléma kapcsán, és nem kapcsolja össze hatékonyan a javaslatot a probléma megoldásával.
+
+## Storytelling hiányosságok:
+1. Nincs egyértelmű "helyzet" bemutatás és kontextusteremtés
+2. A "komplikáció" (hogy elmaradunk a versenytársaktól) implicit, nem kellően hangsúlyozott
+3. Hiányzik az explicit "kérdés" szakasz, amely a megoldandó problémát fogalmazza meg
+4. Az "answer" (chatbot bevezetése) nincs hatékonyan összekapcsolva a problémával
+
+## Konkrét javaslatok a storytelling javítására:
+
+### Újrastrukturált prezentáció a SCQA framework szerint:
+
+1. **Helyzet (Situation): Ügyfélszolgálatunk jelenlegi teljesítménye veszélyezteti az ügyfélmegtartást**
+   - Jelenlegi teljesítményünk adatai
+   - Az ügyfélszolgálat kritikus szerepe az üzleti sikerben
+   - Az aktuális működési modell rövid bemutatása
+
+2. **Komplikáció (Complication): Ügyfélszolgálatunk 25%-kal elmarad a versenytársaktól, ami növekvő ügyfélelégedetlenséget okoz**
+   - Benchmarkok részletes bemutatása vizuálisan is
+   - Az elmaradás konkrét üzleti következményei
+   - A probléma súlyosságát alátámasztó ügyfélvisszajelzések
+   - A jelenlegi működési modell korlátai
+
+3. **Kérdés (Question): Hogyan csökkenthetjük a válaszidőt 50%-kal és növelhetjük az elégedettséget 4.0+ szintre?**
+   - A megoldandó probléma világos megfogalmazása
+   - A sikeres megoldás kritériumai
+   - A megoldás sürgősségének hangsúlyozása
+   - Mit veszítünk, ha nem cselekszünk?
+
+4. **Válasz (Answer): Az MI-alapú chatbot bevezetése 50%-kal csökkentheti a válaszidőt és 4.2-re emelheti az elégedettséget**
+   - A chatbot technológia előnyei specifikusan a mi problémánkra
+   - A technológia ROI-ja és megtérülési ideje
+   - A bevezetés részletes terve és ütemezése
+   - Sikertörténetek hasonló implementációkból
+
+### Oldalcímek javítása (storytelling fókusszal):
+1. "Ügyfélszolgálati statisztikák" → "Ügyfélszolgálatunk jelenlegi teljesítménye veszélyezteti az ügyfélmegtartást"
+2. "Iparági benchmark" → "25%-os elmaradásunk a versenytársaktól növekvő elégedetlenséget okoz"
+3. "A chatbot technológia bemutatása" → "MI-alapú chatbot: 50%-kal gyorsabb válaszidő, 4.2/5 elégedettség"
+4. "Implementációs terv" → "90 napos tervünk a gyors ROI elérésére és az ügyfélélmény azonnali javítására"
+
+### Az érzelmi/üzleti feszültség építése:
+1. **Teremts sürgősséget**: Használj adatokat a jelenlegi helyzet tarthatatlanságának bemutatására (pl. "Minden nap 15 ügyfelet veszítünk a lassú válaszidő
+miatt")
+2. **Humanizáld a problémát**: Mutass be valós ügyfélvisszajelzéseket vagy eseteket
+3. **Mutass rá a veszélyekre**: Mi történik, ha nem cselekszünk? Milyen piaci részesedést veszíthetünk?
+4. **Oldd fel a feszültséget**: Mutasd be, hogyan oldja meg a chatbot technológia pontosan ezeket a problémákat
+
+## Összegzés:
+Az újraszervezett prezentáció egy komplett történetet mesél el: bemutatja a helyzetet, kiemeli a problémát, felteszi a kritikus kérdést, majd meggyőző választ ad rá. Ez a narratív struktúra sokkal jobban megragadja a felsővezetők figyelmét, és világosabbá teszi a cselekvés szükségességét.
+
+5|mentor|Hatásos címek|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációm oldalcímeit a McKinsey-féle "action titles" megközelítés alapján. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan alakíthatnám át a címeket hatásos, cselekvő állításokká.
+
+## A hatásos oldalcímek (action titles) jellemzői:
+- Teljes állítást tartalmaznak, nem csak témát jelölnek
+- Közvetítik az oldal fő üzenetét/következtetését
+- Specifikusak és adatokkal támasztják alá az állítást (amikor lehetséges)
+- Segítenek a prezentációt gyorsan átfutóknak is megérteni a fő üzeneteket
+- Önmagukban is értelmesek és összefüggőek, elmondják a prezentáció fő történetét
+
+## Amit szeretnék tőled:
+
+1. Értékeld az oldalcímeimet:
+   - Állítást fogalmaznak meg vagy csak témát jelölnek?
+   - Közvetítik-e az oldal fő üzenetét?
+   - Elég specifikusak és adatalapúak-e?
+   - Összeállnak-e egy koherens történetté?
+
+2. Adj konkrét javaslatokat:
+   - Minden oldalcím átfogalmazására "action title" formátumban
+   - Biztosítsd, hogy a címek együtt egy koherens történetet meséljenek el
+   - Ahol lehetséges, építs be konkrét számokat/adatokat a címekbe
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: Bevezető
+1. oldal tartalma:
+- Cégünk 5 éves növekedési terve
+- Jelenlegi piaci helyzet: 12% piaci részesedés
+- Ambíciónk: 25% piaci részesedés elérése 5 éven belül
+
+2. oldal címe: Jelenlegi kihívások
+2. oldal tartalma:
+- Erősödő versenytársak: 3 új belépő az elmúlt évben
+- Termékportfólió elöregedése: termékeink átlagéletkora 4.2 év
+- Értékesítési csatornák korlátozott hatékonysága: 65% konverziós ráta
+
+3. oldal címe: Növekedési lehetőségek
+3. oldal tartalma:
+- Új piacok: 3 szomszédos ország, 45 millió potenciális ügyfél
+- Termékfejlesztés: 7 új termék bevezetési lehetősége
+- Digitális értékesítés: 23% növekedés az online piacon
+
+4. oldal címe: Stratégiai irányok
+4. oldal tartalma:
+- 150 millió € beruházás termékfejlesztésbe
+- Nemzetközi terjeszkedés: 3 ország, 25 új üzlet
+- Digitális platform fejlesztése: 35 millió € beruházás
+
+### Példa kimenet:
+
+# Oldalcímek értékelése és optimalizálása
+
+## Jelenlegi oldalcímek értékelése:
+A prezentációban szereplő oldalcímek jelenleg csak témákat jelölnek meg, nem közvetítenek konkrét üzeneteket vagy állításokat. Ezek a címek nem adnak világos útmutatást a prezentáció fő mondanivalójáról, és nem kommunikálják hatékonyan a kulcsinformációkat a vezetőség számára.
+
+## Problémák a jelenlegi címekkel:
+1. **Túl általánosak**: Például a "Bevezető" vagy "Stratégiai irányok" nem árul el semmit a tartalomról
+2. **Nem tartalmaznak adatokat**: A címek nem használják ki a rendelkezésre álló számszerű információkat
+3. **Nem alkotnak történetet**: Az oldalcímek önmagukban nem adnak át koherens narratívát
+4. **Nem kommunikálják a "so what" üzenetet**: Nem derül ki, miért fontosak ezek az információk
+
+## McKinsey-stílusú "action title" javaslatok:
+
+### 1. "Bevezető" helyett:
+**"Ambiciózus 5 éves tervünk megduplázná piaci részesedésünket 12%-ról 25%-ra"**
+
+*Indoklás: Ez a cím azonnal közvetíti a prezentáció fő célját és a változás mértékét. Konkrét adatokat használ és világossá teszi a tét nagyságát.*
+
+### 2. "Jelenlegi kihívások" helyett:
+**"Három új versenytárs belépése és elöregedő termékportfóliónk (4,2 év) veszélyezteti piaci pozíciónkat"**
+
+*Indoklás: Ez a cím specifikus problémákat azonosít, adatokkal alátámasztva. Világossá teszi a sürgető helyzetet és a cselekvés szükségességét.*
+
+### 3. "Növekedési lehetőségek" helyett:
+**"Három új piac megnyitása 45 millió potenciális ügyféllel és 7 új termék 40%-os növekedést eredményezhet"**
+
+*Indoklás: A cím konkrét lehetőségeket nevez meg számokkal, és bemutatja a várható eredményt.*
+
+### 4. "Stratégiai irányok" helyett:
+**"150 millió eurós termékfejlesztési beruházással és három új országba lépéssel érhetjük el 25%-os piaci részesedési célunkat"**
+
+*Indoklás: A cím világossá teszi a konkrét cselekvési tervet és újra összeköti a kezdeti ambícióval, keretet adva a prezentációnak.*
+
+## A címek által közvetített összefüggő történet:
+A javasolt címek sorban olvasva világos narratívát alkotnak:
+1. Ambiciózus növekedési célunk van (piaci részesedés megduplázása)
+2. Kihívásokkal nézünk szembe (új versenytársak, elöregedő termékek)
+3. Jelentős lehetőségek állnak előttünk (új piacok, új termékek)
+4. Konkrét stratégiával érhetjük el célunkat (jelentős beruházások)
+
+Ez a struktúra lehetővé teszi, hogy egy felsővezető pusztán az oldalcímek átfutásával megértse a prezentáció fő mondanivalóját és annak logikáját.      
+
+6|mentor|Adatvizualizáció|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmban található adatvizualizációkat. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám az adatok megjelenítését a hatékonyabb kommunikáció érdekében.
+
+## A hatékony adatvizualizáció alapelvei:
+- Az adatvizualizáció típusának illeszkednie kell a kommunikálni kívánt üzenethez
+- Csak a szükséges adatokat jeleníti meg, kerüli az adatzajt
+- Intuitív módon hangsúlyozza a legfontosabb adatpontokat
+- A címek és feliratok egyértelműen közvetítik az adatokból levonható következtetést
+- Következetes színkódolást és formázást használ
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációmban szereplő adatvizualizációkat:
+   - Megfelelő vizualizációs típust használok az adott üzenethez?
+   - Az adatok megjelenítése világos és könnyen értelmezhető?
+   - A vizualizációk kiemelik a kulcsfontosságú üzeneteket?
+   - A diagramok, grafikonok címei közvetítik a fő következtetést?
+
+2. Adj konkrét javaslatokat:
+   - A vizualizáció típusának módosítására (ha szükséges)
+   - A megjelenítés egyszerűsítésére és a kulcsinformációk kiemelésére
+   - A címek és feliratok javítására
+   - A színek és formázás hatékonyabb használatára
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: Negyedéves értékesítési adatok
+1. oldal tartalma:
+- Táblázat 4 negyedév értékesítési adataival mind a 15 termékre lebontva
+- Oszlopdiagram, amely mutatja az összesített értékesítést negyedévenként
+
+2. oldal címe: Regionális teljesítmény
+2. oldal tartalma:
+- Tortadiagram a régiókon belüli értékesítési arányokról
+- Táblázat a régiók növekedési rátájával (egyes régiók csökkenést mutatnak)
+
+3. oldal címe: Ügyfélelégedettségi mutatók
+3. oldal tartalma:
+- Vonaldiagram, amely 12 különböző elégedettségi mutatót követ havi bontásban
+- Az adatpontok nagyon közel vannak egymáshoz, nehezen különböztethetők meg
+
+4. oldal címe: Költségvetési teljesítmény
+4. oldal tartalma:
+- Összetett oszlopdiagram, amely a tervezett vs. tényleges költségeket mutatja 8 különböző költségkategóriára
+- Néhány kategória jelentős túllépést mutat, mások alatta maradnak a tervnek
+
+### Példa kimenet:
+
+# Adatvizualizációk értékelése és optimalizálási javaslatok
+
+## Általános értékelés:
+A prezentációban található adatvizualizációk többsége túl komplex, túl sok adatot próbál egyszerre megjeleníteni, és nem emeli ki hatékonyan a kulcsfontosságú üzeneteket. A vizualizációtípusok néhány esetben nem optimálisak az adott üzenetek közvetítéséhez.
+
+## Részletes értékelés és javaslatok oldalanként:
+
+### 1. Oldal: "Negyedéves értékesítési adatok"
+
+**Jelenlegi probléma:**
+- A 15 termék részletes táblázata túl sok információt tartalmaz egyetlen diához
+- Az oszlopdiagram nem emeli ki a lényeges trendeket vagy változásokat
+
+**Javaslatok:**
+1. **Táblázat helyett:** Csak a top 5 és bottom 3 terméket mutasd be, vagy helyezd a részletes táblázatot függelékbe
+2. **Oszlopdiagram helyett:** Használj kombinált grafikont:
+   - Oszlopok az abszolút értékesítési számokhoz
+   - Vonaldiagram a negyedéves növekedési ütem megjelenítéséhez
+3. **Új cím:** "Q3-ban 23%-os értékesítési növekedés, Q4-re várható lassulással"
+4. **Visual highlight:** Emeld ki színnel a legutolsó negyedévet és a legnagyobb változást mutató negyedévet
+
+### 2. Oldal: "Regionális teljesítmény"
+
+**Jelenlegi probléma:**
+- A tortadiagram nem ideális növekedési trendek vagy összehasonlítások bemutatására
+- A növekedési adatok táblázatos formája nem hangsúlyozza a kritikus különbségeket
+
+**Javaslatok:**
+1. **Tortadiagram helyett:**
+   - Használj vízszintes sávdiagramot a régiók méretének összehasonlítására
+   - Készíts mellé egy divergáló sávdiagramot, amely a növekedést/csökkenést mutatja
+2. **Táblázat helyett:** Készíts hőtérképet a növekedési adatokból, ahol a színintenzitás jelzi a növekedés vagy csökkenés mértékét
+3. **Új cím:** "Az északi régió 18%-os visszaesése ellensúlyozza a nyugati régió 23%-os növekedését"
+4. **Színkódolás:** Használj konzisztens színeket – zöldet a növekedéshez, pirosat a csökkenéshez
+
+### 3. Oldal: "Ügyfélelégedettségi mutatók"
+
+**Jelenlegi probléma:**
+- A 12 különböző vonal egy grafikonon túl zsúfolt és követhetetlen
+- A havi bontás túl részletes lehet a fő trendek felismeréséhez
+
+**Javaslatok:**
+1. **Vonaldiagram helyett:**
+   - Készíts egy kisebb, többszörös grafikont (small multiples) a 3-4 legfontosabb mutatóval
+   - A többi mutatót csoportosítsd egy összesített elégedettségi indexbe
+2. **Időbeli bontás:** Havi helyett negyedéves adatokat mutass, vagy használj mozgóátlagot a trendek kisimítására
+3. **Új cím:** "A válaszidő-elégedettség 15%-os javulása ellenére a teljes elégedettségi index stagnál"
+4. **Kiemelés:** Használj vastagabb vonalat és erősebb színt a legfontosabb mutatóhoz, halványabbakat a többihez
+
+### 4. Oldal: "Költségvetési teljesítmény"
+
+**Jelenlegi probléma:**
+- Az összetett oszlopdiagram 8 kategóriával túl sok információt tartalmaz
+- Nehéz gyorsan azonosítani a legjelentősebb túllépéseket és megtakarításokat
+
+**Javaslatok:**
+1. **Összetett oszlopdiagram helyett:**
+   - Használj divergáló sávdiagramot, amely a tervtől való eltérést mutatja (nem az abszolút értékeket)
+   - Rendezd az adatokat a legnagyobb eltérés szerint (pozitív vagy negatív irányban)
+2. **Adatszűrés:** Csak azokat a kategóriákat emeld ki, ahol az eltérés meghaladja a ±5%-ot vagy más releváns küszöbértéket
+3. **Új cím:** "A marketing 35%-os túlköltekezését ellensúlyozza a 28%-os HR költségmegtakarítás"
+4. **Vizuális segítség:** Adj hozzá egy referenciavonalat, amely jelzi a tervezett szintet, és használj színkódolást (piros/zöld) az eltérések jelzésére
+## Általános javaslatok minden adatvizualizációhoz:
+
+1. **Egyszerűsítés:** Csökkentsd a megjelenített adatpontok számát, fókuszálj a kritikus információkra
+2. **Következetes színek:** Alakíts ki egy következetes színpalettát az egész prezentáción át
+3. **Kiemelés:** Mindig emeld ki vizuálisan a legfontosabb adatpontokat vagy trendeket
+4. **Informatív címek:** Minden vizualizáció címe közvetítse a fő következtetést, ne csak leírja a grafikon tartalmát
+5. **Referenciavonalak:** Használj referenciavonalakat a célok vagy benchmarkok jelzésére
+6. **Magyarázó jegyzetek:** Rövid, magyarázó szövegekkel segítsd a legfontosabb pontok értelmezését
+
+7|mentor|Adatszintézis|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a hatékony adatszintézis elveinek megfelelően. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan léphetnék túl az egyszerű adatismertetésen és összefoglaláson a mélyebb elemzés és szintézis irányába.
+
+## A hatékony adatszintézis lényege:
+- **Túllép az egyszerű adatközlésen**: Nem csak tényeket közöl, hanem feltárja azok jelentőségét
+- **Összefüggéseket azonosít**: Kapcsolatokat és mintázatokat tár fel különálló adatpontok között
+- **Következtetéseket von le**: Megmutatja az adatok "so what" jelentőségét
+- **Javaslatokhoz vezet**: Az adatokból levont tanulságokat cselekvési tervvé alakítja
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm adatfeldolgozási mélységét:
+   - Pusztán adatközlés (facts)
+   - Rendszerezett összefoglalás (summary)
+   - Valódi szintézis és jelentőségértelmezés (synthesis)
+
+2. Adj konkrét javaslatokat:
+   - Hogyan léphetnék túl az egyszerű adatismertetésen
+   - Milyen összefüggéseket, mintázatokat tárhatnék fel az adataimban
+   - Hogyan fogalmazhatnám meg a "so what" tanulságokat
+   - Milyen kérdéseket kellene feltennem az adatok mélyebb értelmezéséhez
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: Értékesítési eredmények
+1. oldal tartalma:
+- A vállalat összes értékesítése 12% növekedést mutat az előző évhez képest
+- A legjobban teljesítő termék: Termék A, 23% növekedés
+- A leggyengébben teljesítő termék: Termék D, 5% csökkenés
+- Online értékesítés: 27% növekedés, offline értékesítés: 3% növekedés
+
+2. oldal címe: Ügyfélszegmensek
+2. oldal tartalma:
+- Prémium szegmens: 18% növekedés
+- Középkategória: 8% növekedés
+- Belépő szegmens: 6% növekedés
+- Új ügyfelek száma: +2320, 15% növekedés az előző évhez képest
+
+3. oldal címe: Költségek alakulása
+3. oldal tartalma:
+- Gyártási költségek: 7% növekedés
+- Logisztika: 12% növekedés
+- Marketing: 3% csökkenés
+- HR költségek: 15% növekedés (3 új pozíció az értékesítési csapatban)
+
+4. oldal címe: Következő év tervei
+4. oldal tartalma:
+- Értékesítési cél: 15% növekedés
+- Termékfejlesztés: 2 új termék bevezetése
+- Marketing költségvetés: 5% emelése
+- Nemzetközi terjeszkedés: 2 új ország
+
+### Példa kimenet:
+
+# Adatszintézis értékelés és fejlesztési javaslatok
+
+## Általános értékelés:
+A jelenlegi prezentáció túlnyomórészt az "adatközlés" (facts) szintjén marad, néhol eléri az "összefoglalás" (summary) szintjét, de ritkán jut el a valódi "szintézis" (synthesis) szintjére. A prezentáció tényeket és százalékokat sorol fel, de nem tárja fel az ezek mögött rejlő jelentőségteljes összefüggéseket,
+nem vonja le a stratégiai következtetéseket, és nem kapcsolja össze a különböző adathalmazokat egy koherens narratívává.
+
+## Részletes értékelés oldalanként:
+
+### 1. Oldal: "Értékesítési eredmények"
+**Jelenlegi szint: Adatközlés**
+
+Az oldal számszerű növekedési adatokat mutat be különböző kategóriákban, de nem elemzi ezek jelentőségét vagy összefüggéseit.
+
+**Szintézis lehetőségek:**
+1. **Értelmezd a csatornák közötti különbséget**: "Az online csatorna kilencszeres növekedési üteme azt jelzi, hogy a vásárlói szokások alapvető változáson
+mennek keresztül, amit további erőforrás-átcsoportosítással kell támogatnunk."
+2. **Tárd fel a termékek közötti összefüggéseket**: "A Termék A kiugró teljesítménye és a Termék D visszaesése közötti 28%-os különbség a termékvonal átgondolását teszi szükségessé."
+3. **Vonj le következtetést**: "A 12%-os általános növekedés elfedi a jelentős belső egyenlőtlenségeket, amelyek a termékportfólió alapos felülvizsgálatát indokolják."
+
+### 2. Oldal: "Ügyfélszegmensek"
+**Jelenlegi szint: Adatközlés/Összefoglalás**
+
+Az oldal összehasonlítja a különböző szegmensek növekedését, de nem elemzi a mintázat stratégiai jelentőségét.
+
+**Szintézis lehetőségek:**
+1. **Azonosíts ügyfélviselkedési trendeket**: "A prémium szegmens kiemelkedő 18%-os növekedése azt jelzi, hogy a magasabb árkategória felé tolódó stratégiánk sikeresen megkülönböztet minket a versenytársaktól."
+2. **Kapcsold össze az ügyfél- és termékadatokat**: "A prémium szegmens és a Termék A párhuzamos növekedése (18% és 23%) megerősíti, hogy prémium termékstratégiánk találkozik a piaci igényekkel."
+3. **Mutass rá a rejtett lehetőségekre**: "Bár új ügyfeleink száma 15%-kal nőtt, a középkategóriás szegmens csak 8%-kal bővült, ami arra utal, hogy az ügyfélmegtartási stratégiánk felülvizsgálatra szorul."
+
+### 3. Oldal: "Költségek alakulása"
+**Jelenlegi szint: Adatközlés**
+
+Az oldal felsorolja a különböző költségkategóriák változásait, de nem elemzi ezek hatásait vagy összefüggéseit.
+
+**Szintézis lehetőségek:**
+1. **Elemezd a költség-haszon viszonyt**: "A HR költségek 15%-os növekedése háromszorosan térült meg az értékesítési csapat bővítésével, ami 12%-os össznövekedést eredményezett."
+2. **Tárj fel ok-okozati összefüggéseket**: "A logisztikai költségek 12%-os emelkedése közvetlenül összefügg az online értékesítés 27%-os bővülésével, ami a szállítási modellünk újratervezését teszi szükségessé."
+3. **Vonj le stratégiai következtetést**: "A gyártási és logisztikai költségek együttes emelkedése (7% és 12%) meghaladja a középkategóriás termékek növekedését (8%), ami veszélyezteti e szegmens profitabilitását."
+
+### 4. Oldal: "Következő év tervei"
+**Jelenlegi szint: Összefoglalás**
+
+Az oldal felsorolja a tervezett lépéseket, de nem indokolja meg ezeket az előző oldalak adatai alapján.
+
+**Szintézis lehetőségek:**
+1. **Kapcsold össze a terveket a feltárt trendekkel**: "A 15%-os növekedési cél az online csatorna további erősítésére és a prémium szegmens sikeres stratégiájának kiterjesztésére épül."
+2. **Indokold a döntéseket adatokkal**: "A marketing költségvetés 5%-os növelése célzottan a 18%-kal növekvő prémium szegmens további erősítésére és a stagnáló középkategória újrapozicionálására irányul."
+3. **Mutass rá a következményekre**: "A két új ország megcélzása lehetővé teszi a sikeresen növekvő Termék A nemzetközi kiterjesztését, miközben új növekedési pályára állíthatja a hazai piacon 5%-kal visszaeső Termék D-t."
+
+## Gyakorlati lépések a mélyebb szintézishez:
+
+### 1. Alkalmazd a "McKinsey-féle megkülönböztető képességeket":
+- **Expand (Bővítsd)**: Nézd az adatokat több szempontból (ügyfelek, versenytársak, hosszú távú trendek)
+- **Link (Kapcsolj össze)**: Találj összefüggéseket különböző adathalmazok között
+- **Distill (Desztillálj)**: Azonosítsd a legfontosabb következtetéseket
+- **Lead (Vezess)**: Anticipáld a következő lépéseket és kérdéseket
+
+### 2. Tegyél fel mélyebb elemző kérdéseket:
+- "Miért mutat a prémium szegmens háromszor gyorsabb növekedést, mint a belépő szegmens?"
+- "Milyen összefüggés van az online értékesítés és a logisztikai költségek növekedése között?"
+- "Hogyan befolyásolja a HR költségek növekedése a profit marzsot szegmensenként?"
+- "Miért csökkentek a marketing költségek, miközben új ügyfeleket szereztünk?"
+
+### 3. Alkosd meg a "so what" következtetéseket:
+- Ne csak mondd, hogy "12% növekedés", hanem magyarázd el, hogy "a 12%-os növekedés meghaladja a piac 8%-os bővülését, ami azt jelzi, hogy piaci részesedésünk nőtt"
+- Ne csak közöld, hogy "online értékesítés: 27% növekedés", hanem emeld ki, hogy "az online csatorna kiugró 27%-os növekedése indokolja az értékesítési 
+modellünk alapvető újragondolását"
+
+### 4. Strukturáld át a prezentációt a szintézis köré:
+
+**Javasolt új oldalstruktúra:**
+
+1. **Szelektív növekedési stratégiánk sikeresen elmozdul a prémium szegmens irányába**
+   - A prémium szegmens 18%-os és a Termék A 23%-os növekedésének összefüggése
+   - Az online csatorna kiemelt szerepe a prémium stratégiában
+   - A következtetés: A prémium stratégia további erősítése javasolt
+
+2. **A költségnövekedés újraelosztása szükséges a profitabilitás fenntartásához**
+   - Logisztikai költségek és online növekedés kapcsolata
+   - HR befektetés megtérülésének elemzése
+   - A következtetés: Költségoptimalizálás szükséges a középkategóriában
+
+3. **A középkategória stagnálása aktív beavatkozást igényel**
+   - A középkategóriás termékek alulteljesítése
+   - Új ügyfelek és meglévő ügyfelek viselkedése
+   - A következtetés: A középkategória újrapozicionálása vagy átalakítása szükséges
+
+4. **Stratégiai akcióterv: Nemzetközi terjeszkedés és termékportfólió-átalakítás**
+   - Konkrét lépések a feltárt lehetőségek kiaknázására
+   - A várható eredmények és azok mérése
+   - Erőforrás-elosztási javaslatok
+
+8|audience|Általános|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből. Alább találod a prezentáció tartalmát. Adj szakértői visszajelzést arról, hogyan hatott rám mint közönségre a prezentációd, és hogyan javíthatnád az előadásodat a hatékonyabb kommunikáció érdekében.
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációt egy tipikus néző szemszögéből
+   - Mennyire volt világos a fő üzenet?
+   - Mennyire tudtam követni a gondolatmenetet?
+   - Mely részek voltak érdekesek vagy unalmasak?
+   - Mi keltette fel és mi veszítette el a figyelmemet?
+
+2. Adj konkrét javaslatokat:
+   - A tartalom átszervezésére a nézői figyelem fenntartása érdekében
+   - A vizuális elemek vagy szövegek javítására
+   - A kulcsüzenet hatékonyabb átadására
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: IT költségvetés elemzése
+1. oldal tartalma: Táblázat az utóbbi 3 év IT kiadásairól kategóriánként
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma:
+- Versenytársak átlagos IT költése GDP %-ában
+- IT kiadások megoszlása más vállalatoknál
+
+3. oldal címe: IT projektjeink hatékonysága
+3. oldal tartalma:
+- Az utóbbi 5 projekt ROI elemzése
+- Projektátfutási idők összehasonlítása
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- IT költségvetés növelése 15%-kal
+- Fókusz a cloud infrastruktúrára
+- IT csapat bővítése
+
+### Példa kimenet:
+
+# Prezentáció értékelése nézői szemszögből
+
+## Általános benyomás:
+Nézőként elvesztettem a fonalat az adatok között, és csak a prezentáció végén értettem meg, mi a lényeg. Az volt az érzésem, hogy túl sok adat és kevés 
+"történet" van az előadásban. Nehezen tudtam követni, miért fontosak ezek az információk.
+
+## Ami működött:
+- Az adatok alaposak és részletesek
+- A javaslatok listája a végén konkrét és világos
+- A benchmark összehasonlítás érdekes kontextust adott
+
+## Ami nem működött számomra:
+1. Nem tudtam, mire számítsak a prezentáció elején
+2. Túl sok adatot láttam kontextus nélkül, nem tudtam, mit kellene keresnem bennük
+3. Elvesztettem a figyelmemet a ROI elemzésnél, mert nem láttam, miért fontos ez
+4. Amikor a javaslatokhoz értünk, meglepődtem, mert nem láttam előre az összefüggést
+
+## Konkrét javaslatok nézői szemszögből:
+
+### 1. A figyelmem fenntartása érdekében:
+- Kezdd egy rövid áttekintéssel, ami elmagyarázza, mit fogsz javasolni és miért
+- Használj egy történetet vagy forgatókönyvet a probléma szemléltetésére
+- Az adatok bemutatása előtt mondd el, miért fontosak ezek számomra
+
+### 2. Vizuális elemek javítása:
+- A nagy táblázat helyett használj egy látványos grafikont, ami kiemeli a fő trendet
+- Színkódold a benchmark adatokat, hogy azonnal látsszon, hol vagyunk lemaradva
+- A projekt ROI-nál használj vizuális összehasonlítást az elvárt és valós értékek között
+
+### 3. Az üzenet átadásának javítása:
+- Változtasd meg a sorrendet: kezdd azzal, hogy "15%-os IT költségvetés-növelésre van szükség"
+- Minden diánál emeld ki a következtetést, ne csak az adatokat mutasd
+- Minden adat után mondd el: "Ez azért fontos, mert..."
+- Zárd körbe a prezentációt azzal, hogy visszautalsz a kezdeti problémára
+
+## Összegzés nézői szemszögből:
+Érdekes adatokat mutattál be, de nézőként elvesztem a részletekben. Ha először elmondod, mit akarsz elérni a prezentációval, és minden adatnál kiemeled, miért fontos az számomra, sokkal jobban tudnám követni a gondolatmenetedet. A javaslataidat konkrétabbnak és meggyőzőbbnek érezném, ha már a prezentáció elején jelzed, milyen problémát akarsz megoldani.
+
+9|audience|Első benyomások|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel az első benyomásokra. Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, hogyan hatott rám mint közönségre a prezentációd első pillanatai.
+
+## Amit szeretnék tőled:
+
+1. **Első benyomások részletes leírása:**
+   - Mi volt az azonnali reakcióm a prezentáció első diájára?
+   - Milyen érzéseket és gondolatokat keltett bennem a kezdés?
+   - Milyen elvárásokat alakítottam ki a prezentáció további részével kapcsolatban?
+   - Milyen vizuális elemek vagy szavak ragadták meg a figyelmemet vagy tévesztettek meg?
+
+2. **A kezdés hatékonysága:**
+   - Mennyire keltette fel a prezentáció kezdete az érdeklődésemet?   
+   - Mennyire volt világos a téma és a cél az első pillanatokban?     
+   - Mennyire éreztem magam bevonva vagy elkötelezve az első dia után?
+
+3. **Javaslatok a kezdés javítására:**
+   - Hogyan lehetne erősebb első benyomást kelteni?
+   - Milyen alternatív kezdést javasolnék a nagyobb hatás érdekében?
+   - Milyen elemeket hiányoltam az első percekben?
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: IT költségvetés elemzése
+1. oldal tartalma: Táblázat az utóbbi 3 év IT kiadásairól kategóriánként
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma:
+- Versenytársak átlagos IT költése GDP %-ában
+- IT kiadások megoszlása más vállalatoknál
+
+3. oldal címe: IT projektjeink hatékonysága
+3. oldal tartalma:
+- Az utóbbi 5 projekt ROI elemzése
+- Projektátfutási idők összehasonlítása
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- IT költségvetés növelése 15%-kal
+- Fókusz a cloud infrastruktúrára
+- IT csapat bővítése
+
+### Példa kimenet:
+
+# Első benyomásaim a prezentációdról
+
+## Azonnali reakcióm az első diára
+
+Amikor megláttam az első diát az "IT költségvetés elemzése" címmel és egy nagy adattáblázattal, a legelső reakcióm a **meglepettség** volt, majd rögtön 
+utána egy enyhe **szorongás** érzet. Nem számítottam arra, hogy azonnal, kontextus nélkül számokkal találkozom. Az volt az érzésem, hogy "Várj, még nem 
+vagyok felkészülve az adatok értelmezésére".
+
+A táblázat első pillantásra **túlzsúfoltnak** tűnt, és nem volt egyértelmű, hogy mire kellene fókuszálnom. Hiányzott egy vizuális segítség, amely az adathalmaz legfontosabb elemeit kiemelné. Ez azt az érzést keltette bennem, hogy most kemény mentális munkára lesz szükségem a prezentáció követéséhez.
+
+## Érzéseim és gondolataim a kezdéssel kapcsolatban
+
+A prezentáció első percében ezek a gondolatok futottak át az agyamon:
+- "Ez egy nagyon **adatorientált** előadás lesz" - ami nem feltétlenül negatív, de felkészítettem magam, hogy részletes elemzést kell követnem
+- "Valószínűleg egy **problémáról** fogunk beszélni az IT költségekkel kapcsolatban" - bár nem volt egyértelmű, mi a probléma
+- "**Hiányzik a kontextus** - miért nézzük most ezeket a számokat?"
+- "Ez egy **hivatalos jelentés** lesz, nem egy meggyőző előadás"
+
+Érzelmileg nem éreztem magam bevonva. A számok száraz, érzelemmentes megközelítést sugalltak, ami távolságtartó hangulatot teremtett. Nem éreztem azt a 
+sürgősséget vagy lelkesedést, ami megragadta volna a figyelmemet.
+
+## Elvárásaim a prezentáció további részére vonatkozóan
+
+A kezdés alapján arra készültem, hogy:
+- Sok **részletes adatot** fogok látni
+- Valószínűleg **lassú felépítés** következik, ahol a konklúzió csak a végén lesz látható
+- Nehéz lesz **követni a mondanivalót**, mert nem tudom, hová tart a prezentáció
+- Valószínűleg **hiányozni fog egy erős történet** vagy narratíva, ami összeköti az adatokat
+- Jó eséllyel **elveszítem a figyelmemet** valahol menet közben
+
+## A kezdés hatékonysága
+
+### Figyelemfelkeltés: 3/10
+A kezdés nem ragadta meg a figyelmemet. Hiányzott egy erős állítás, egy meglepő tény vagy egy releváns történet, ami azonnal bevont volna. Ehelyett egy 
+semleges cím és egy komplex táblázat fogadott, ami inkább távolságtartást, mint érdeklődést keltett.
+
+### A téma és cél világossága: 4/10
+A téma világos volt (IT költségvetés), de a cél egyáltalán nem. Nem tudtam, hogy ez egy informatív jelentés, egy problémafeltárás vagy egy döntéselőkészítő
+prezentáció. Nem tudtam, mit kellene keresnem az adatokban vagy miért fontosak ezek számomra.
+
+### Bevonás és elkötelezettség: 2/10
+Nem éreztem magam bevonva. Sem érzelmileg, sem intellektuálisan nem voltam megszólítva az első percekben. Hiányzott egy kérdés, kihívás vagy problémafelvetés, ami aktivizálta volna a gondolkodásomat.
+
+## Javaslatok az első benyomás javítására
+
+### Erősebb kezdés kialakítása:
+- **Kezdj egy provokatív kérdéssel:** "Mit tennél, ha megtudnád, hogy versenytársaid kétszer annyit költenek IT-ra, mint te?"
+- **Indíts egy meglepő ténnyel:** "Az IT rendszerünk átlagosan 45 percet rabol el minden alkalmazottól – naponta."
+- **Használj egy mini-történetet:** "Múlt hétfőn leállt a rendelési rendszerünk. Vesztettünk 50,000 eurót – két óra alatt."
+
+### Vizuális elemek javítása:
+- A táblázat helyett használj egy **egyszerű grafikont** a legfontosabb trenddel
+- Alkalmazz **színkódolást** a problémás területek azonnali kiemelésére
+- Használj **ikonokat vagy képeket**, amelyek az IT infrastruktúrát vagy a költségvetést szemléltetik
+
+### Strukturális javaslatok:
+- Kezdd egy **agenda diával**, ami áttekinti a prezentáció célját és felépítését
+- Indíts egy **executive summary**-vel, ami előre jelzi a fő következtetéseket
+- Adj egy rövid **kontextust** arról, miért foglalkozunk most az IT költségvetéssel
+
+### Személyesebb kapcsolat kialakítása:
+- Szólítsd meg közvetlenül a hallgatóságot: "Mindannyian naponta használjuk az IT rendszereinket..."
+- Utalj a hallgatóság szerepére: "Vezetőként ti hozzátok a stratégiai döntéseket..."
+- Teremts relevanciát: "A ti csapataitok teljesítményét közvetlen befolyásolja..."
+
+## Összegzés
+
+Az első benyomásom a prezentációról egy adatorientált, részletes, de nem különösebben megnyerő kezdés volt. Hiányzott a kontextus, a világos cél és az érzelmi kapcsolódás. Sokkal erősebb kezdést lehetne kialakítani egy jól megfogalmazott problémával, egy meglepő ténnyel vagy egy releváns történettel. Így mint hallgató, azonnal tudnám, miért fontos ez a téma számomra, és érdeklődéssel várnám a kibontakozó gondolatmenetet.
+
+10|audience|Fő mondanivaló|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel a fő mondanivaló befogadására. Alább találod a prezentáció
+tartalmát. Adj részletes visszajelzést arról, hogyan értettem meg a prezentáció központi üzenetét.
+
+## Amit szeretnék tőled:
+
+1. **A fő mondanivaló azonosítása:**
+   - Mit értettem meg a prezentáció legfontosabb üzeneteként?
+   - Egyértelmű volt-e számomra a prezentáció célja?
+   - Mikor vált világossá a fő üzenet - az elején, közben vagy csak a végén?
+   - Voltak-e olyan részek, ahol elvesztettem a fő mondanivaló fonalát?
+
+2. **Az üzenet átadásának hatékonysága:**
+   - Mennyire volt meggyőző az érvelés?
+   - Logikusan épült-e fel a mondanivaló?
+   - Az adatok és példák hogyan segítették vagy nehezítették a fő üzenet megértését?
+   - Milyen érzelmi reakciókat váltott ki belőlem a fő üzenet?
+
+3. **Javaslatok a fő mondanivaló erősítésére:**
+   - Hogyan lehetne világosabbá tenni a központi üzenetet?
+   - Milyen technikákkal lehetne emlékezetesebbé tenni a fő mondanivalót?
+   - Milyen struktúrával lehetne jobban támogatni az üzenet átadását?
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: IT költségvetés elemzése
+1. oldal tartalma: Táblázat az utóbbi 3 év IT kiadásairól kategóriánként
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma:
+- Versenytársak átlagos IT költése GDP %-ában
+- IT kiadások megoszlása más vállalatoknál
+
+3. oldal címe: IT projektjeink hatékonysága
+3. oldal tartalma:
+- Az utóbbi 5 projekt ROI elemzése
+- Projektátfutási idők összehasonlítása
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- IT költségvetés növelése 15%-kal
+- Fókusz a cloud infrastruktúrára
+- IT csapat bővítése
+
+### Példa kimenet:
+
+# A prezentációd fő mondanivalójának értékelése hallgatói szemszögből
+
+## A fő üzenet azonosítása
+
+### Mit értettem meg központi üzenetként?
+Hallgatóként a prezentációd központi üzenetét így foglalnám össze: **"Az IT költségvetésünket 15%-kal növelni kell, és át kell strukturálnunk a kiadásainkat a cloud infrastruktúra irányába."** Ezt az üzenetet azonban csak a prezentáció legvégén értettem meg, ami jelentősen csökkentette a hatását.
+
+### A fő üzenet világossága
+A prezentáció célja **nem volt egyértelmű számomra a kezdetektől**. Az adatok bemutatása során végig azt próbáltam kitalálni, hogy mire akarsz kilyukadni. A cím ("IT költségvetés elemzése") csak a témát jelölte meg, de nem utalt a prezentáció valódi céljára, ami feltehetően a költségvetés növelésének alátámasztása volt.
+
+### Mikor vált világossá a fő üzenet?
+A fő üzenet csak a **prezentáció utolsó diájánál** vált teljesen világossá számomra. Ekkor értettem meg, hogy a korábbi adatok mind azt a célt szolgálták, hogy megindokolják a javaslatokat. Ez a "fordított piramis" szerkezet azonban megnehezítette a mondanivaló követését, mert nem tudtam, mi a végkövetkeztetés, amihez az adatokat viszonyítsam.
+
+### Hol vesztettem el a fonalat?
+A prezentáció során több ponton is elvesztettem a fő mondanivaló fonalát:
+- A **kezdeti táblázatnál** nem volt világos, mire kellene fókuszálnom
+- Az **iparági benchmark** adatoknál nem volt explicit összefüggés a mi helyzetünkkel
+- A **ROI elemzésnél** nem láttam, hogyan kapcsolódik ez a költségvetés növeléséhez
+- Csak a **javaslatok diájánál** állt össze a kép, de addigra már elkalandoztam
+
+## Az üzenet átadásának hatékonysága
+
+### Az érvelés meggyőzőereje: 5/10
+Az érvelés **nem volt elég meggyőző**, mert a szerkezet nem támogatta a fő mondanivalót. Az adatok valószínűleg megalapozottak voltak, de mivel nem volt világos kontextus vagy következtetés minden adat után, nehéz volt látni, hogyan kapcsolódnak a végső javaslathoz.
+
+### A mondanivaló logikai felépítése: 4/10
+A prezentáció szerkezete **induktív volt** (az adatoktól haladt a következtetésig), de hiányzott az a keret, ami segített volna az adatok értelmezésében. Mint hallgató, nem tudtam, mire készüljek vagy mit keressek az adatokban, ami megnehezítette a logikai kapocs megértését.
+
+### Az adatok és a fő üzenet kapcsolata: 6/10
+Az adatok valószínűleg **alátámasztották a javaslatokat**, de ez a kapcsolat nem volt explicit. Néhány példa:
+- Nem volt világos összekötés a költségvetési adatok és a növelés szükségessége között
+- A benchmarknál hiányzott a konkrét következtetés: "Elmaradtunk a versenytársaktól"
+- A ROI elemzésnél nem láttam egyértelmű kapcsolatot a cloud infrastruktúrára való áttérés előnyeivel
+
+### Érzelmi reakcióm a fő üzenetre: Közömbös
+A prezentáció vége felé, amikor megértettem a fő üzenetet, már túl késő volt ahhoz, hogy érzelmileg involválódni tudjak. Nem éreztem sem sürgősséget, sem lelkesedést a javasolt változtatások iránt, mert hiányzott az érzelmi háttér vagy a személyes relevancia bemutatása.
+
+## Javaslatok a fő mondanivaló erősítésére
+
+### A központi üzenet világosabbá tétele:
+1. **Kezdd a fő üzenettel:** "Ma arról szeretnélek meggyőzni titeket, hogy növelnünk kell az IT költségvetést 15%-kal, és át kell strukturálnunk a kiadásainkat."
+2. **Minden diád címe legyen egy állítás**, nem egy téma:
+   - "IT költségvetésünk stagnál, miközben az igények nőnek" az "IT költségvetés elemzése" helyett
+   - "20%-kal kevesebbet költünk IT-ra, mint versenytársaink" az "Iparági benchmark" helyett
+3. **Használj egy vizuális metaforát** a fő üzenet illusztrálására (pl. egy dashboard műszerfalát, ahol az IT költségvetés a piros zónában van)
+
+### A mondanivaló emlékezetesebbé tétele:
+1. **Alkalmazz a 3-as szabályt:** strukturáld a mondanivalót 3 fő érvre, amelyek alátámasztják a központi üzenetet
+2. **Vezess be egy rövid szlogent** a fő üzenethez: "Befektetés az IT-ba = Befektetés a jövőbe"
+3. **Használj szemléletes hasonlatot:** "IT infrastruktúránk olyan, mint egy öreg autó – többet költünk a javítgatására, mint amennyibe kerülne egy új"
+4. **Teremts kontrasztot** a jelenlegi helyzet és a javaslat között: "Ma 20 perc betölteni egy jelentést, a javasolt fejlesztésekkel 20 másodperc lesz" 
+
+
+### A struktúra javítása a jobb üzenetátadás érdekében:
+1. **Kezdj egy áttekintő diával**, ami egyértelművé teszi a prezentáció célját és struktúráját
+2. **Alkalmazd a Pyramid Principle-t:** kezdd a konklúzióval, majd mutasd be a támogató érveket
+3. **Minden szekció végén összegezd**, hogyan támasztja alá az adott rész a fő üzenetet
+4. **Használj "előtte-utána" forgatókönyveket** a javasolt változtatások hatásának bemutatására
+5. **Zárd össze a kört** a prezentáció végén, világosan összekapcsolva a kezdeti problémát a javasolt megoldással
+
+## Összefoglalás
+
+Mint hallgató, a prezentációd fő üzenetét csak a végén értettem meg, ami jelentősen csökkentette a hatékonyságát. A központi mondanivaló világosabbá és 
+meggyőzőbbé tételéhez javasolt a fordított strukturálás: kezdd a konklúzióval, majd mutasd be az alátámasztó érveket és adatokat. Minden dia címében szerepeljen egy állítás, és minden szekció végén legyen világos, hogyan kapcsolódik az a fő üzenethez. Az adatok önmagukban nem elegendőek – explicit kapcsolatot kell
+teremteni köztük és a végső javaslat között, hogy a hallgatók számára egyértelmű legyen a mondanivalód.
+
+11|audience|Felmerülő kérdések|
+Kérlek, értékeld a PowerPoint prezentációmat a közönség szemszögéből, különös tekintettel azokra a kérdésekre és tisztázást igénylő pontokra, amelyek az előadás közben vagy után felmerülhetnek. Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, milyen kérdéseket válthat ki az előadásom a
+hallgatóságból.
+
+## Amit szeretnék tőled:
+
+1. **Várható kérdések azonosítása:**
+   - Milyen tisztázó kérdések merülhetnek fel a közönségben?
+   - Hol lehetnek hiányosságok vagy nem elég világos részek az anyagban?
+   - Milyen szakmai vagy technikai részletekre kérdezhetnek rá?
+   - Milyen ellenvetések vagy kritikus észrevételek fogalmazódhatnak meg?
+
+2. **A kérdések típusainak értékelése:**
+   - Melyek azok a kérdések, amelyek a megértést segítik?
+   - Milyen kérdések jelezhetnek szkepticizmust vagy ellenállást?
+   - Melyek lehetnek azok a pontok, ahol az előadás továbbgondolásra ösztönöz?
+   - Milyen gyakorlati alkalmazásokra vonatkozó kérdések merülhetnek fel?
+
+3. **Javaslatok a kérdések kezelésére:**
+   - Milyen előzetes válaszokat építhetnék be az előadásba?
+   - Melyik diákat kellene kiegészíteni további információkkal?
+   - Milyen kiegészítő anyagokat készítsek elő a várható kérdésekre?
+   - Hogyan strukturálhatnám másképp az előadást, hogy megelőzzem a félreértéseket?
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: IT költségvetés elemzése
+1. oldal tartalma: Táblázat az utóbbi 3 év IT kiadásairól kategóriánként
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma:
+- Versenytársak átlagos IT költése GDP %-ában
+- IT kiadások megoszlása más vállalatoknál
+
+3. oldal címe: IT projektjeink hatékonysága
+3. oldal tartalma:
+- Az utóbbi 5 projekt ROI elemzése
+- Projektátfutási idők összehasonlítása
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- IT költségvetés növelése 15%-kal
+- Fókusz a cloud infrastruktúrára
+- IT csapat bővítése
+
+### Példa kimenet:
+
+# Prezentációd értékelése a várható nézői kérdések szempontjából
+
+## Várható kérdések azonosítása
+
+### Tisztázó kérdések
+1. **1. diához (IT költségvetés elemzése):**
+   - "Az infláció hatását figyelembe vettétek az éves összehasonlításban?"
+   - "Mik voltak a legnagyobb költségváltozásokat okozó tényezők az egyes kategóriákban?"
+   - "Milyen időszakra vonatkoznak pontosan ezek az adatok?"
+
+2. **2. diához (Iparági benchmark):**
+   - "Pontosan mely versenytársakat vettétek figyelembe a benchmark készítésénél?"
+   - "A méretben és profilban hasonló cégekkel történt az összehasonlítás?"
+   - "Honnan származnak az iparági adatok és mennyire frissek?"
+
+3. **3. diához (IT projektjeink hatékonysága):**
+   - "Milyen metodológiát használtatok a ROI kiszámításához?"
+   - "Tartalmazza az elemzés a fenntartási költségeket is?"
+   - "Az 5 projekt reprezentatívnak tekinthető a teljes IT tevékenységünkre?"
+
+4. **4. diához (Javaslatok):**
+   - "Miért éppen 15%-os növelést javasoltok, miért nem többet vagy kevesebbet?"
+   - "Milyen időtávon tervezitek megvalósítani ezeket a változtatásokat?"
+   - "Mit tartalmazna konkrétan a 'fókusz a cloud infrastruktúrára'?"
+
+### Hiányosságokra vonatkozó kérdések
+1. "Nem látom, hogy figyelembe vettétek volna a technológiai trendek változását az elemzésben."
+2. "Hiányzik a kockázatelemzés a költségvetés növeléséhez kapcsolódóan."
+3. "Nem tértetek ki a javaslatok operatív hatásaira a napi munkavégzésben."
+4. "Nincs információ arról, honnan csoportosítanátok át a forrásokat a költségvetés növeléséhez."
+
+### Szakmai/technikai kérdések
+1. "A cloud infrastruktúrára való átállás milyen biztonsági kockázatokat jelent?"
+2. "Milyen specifikus cloud szolgáltatásokat választanátok és miért?"
+3. "Az IT csapat bővítése milyen új szakértelmeket jelentene pontosan?"
+4. "A jelenlegi on-premise rendszereinket hogyan tervezitek integrálni a cloud megoldásokkal?"
+
+### Ellenvetések/kritikus észrevételek
+1. "A múltbeli projektek ROI-ja nem feltétlenül jelzi előre a jövőbeli befektetések megtérülését."
+2. "A versenytársak magasabb IT költése nem garancia a jobb eredményekre."
+3. "A cloud infrastruktúrára való átállás kezdetben növelheti és nem csökkentheti a költségeket."
+4. "Nem látom, hogy a prezentáció bemutatná, hogyan oldja meg a 15%-os emelés a jelenleg fennálló problémákat."
+
+## A kérdések típusainak értékelése
+
+### Megértést segítő kérdések
+A közönség várhatóan az **adatforrások megbízhatóságát és az elemzési módszertant** fogja megkérdőjelezni. Ezek a kérdések segítenek nekik megérteni, mennyire alapozhatnak a következtetéseidre. Különösen az IT költségvetési táblázatnál és a benchmarkoknál lesz fontos tisztázni az adatok eredetét és kontextusát.
+### Szkepticizmust jelző kérdések
+A legerősebb ellenállás várhatóan a **15%-os költségvetés-növelési javaslat** kapcsán fog jelentkezni. A döntéshozók valószínűleg pontos ROI előrejelzést és részletes implementációs tervet fognak kérni. Azt is megkérdőjelezhetik, hogy a cloud infrastruktúrára való átállás valóban megtérül-e, különösen a kezdeti magasabb költségek fényében.
+
+### Továbbgondolásra ösztönző kérdések
+A prezentáció várhatóan **stratégiai jellegű kérdéseket** fog generálni, például:
+- "Hogyan illeszkedik ez az IT stratégia a vállalat átfogó üzleti céljaihoz?"
+- "Milyen versenyelőnyöket teremtene ez az átállás?"
+- "Hogyan mérnénk a befektetés sikerességét egy év múlva?"
+Ezek a kérdések jelzik, hogy a közönség komolyan fontolóra veszi a javaslataidat.
+
+### Gyakorlati alkalmazásra vonatkozó kérdések
+A legtöbb gyakorlati kérdés valószínűleg **az implementáció részleteire** fog vonatkozni:
+- "Milyen ütemezéssel történne a cloud átállás?"
+- "Hogyan minimalizálnánk az átállás miatti üzleti fennakadásokat?"
+- "Milyen képzésekre lenne szükség a csapat felkészítéséhez?"
+- "Hogyan történne a régi és új rendszerek párhuzamos működtetése az átmeneti időszakban?"
+
+## Javaslatok a kérdések kezelésére
+
+### Előadásba építendő válaszok
+1. **Adj kontextust minden adathoz:** Minden táblázat vagy grafikon mellett tüntesd fel az adatok forrását, időtartamát és a gyűjtés módszertanát.
+2. **Magyarázd el a 15%-os emelés kalkulációját:** Mutass be egy mini költség-haszon elemzést, ami alátámasztja ezt a konkrét számot.
+3. **Tégy hozzá egy "Következő lépések" diát:** Vázold fel a javasolt változtatások ütemtervét és mérföldköveit.
+4. **Készíts egy kockázat-kezelési szekciót:** Mutasd be, hogyan tervezed kezelni az átállással járó kihívásokat.
+
+### Kiegészítendő diák
+1. **1. dia (IT költségvetés):** Egészítsd ki az inflációval korrigált adatokkal és a főbb költségkategóriák trendelemzésével.
+2. **2. dia (Benchmark):** Adj hozzá részleteket a benchmark módszertanáról és a kiválasztott versenytársak relevanciájáról.
+3. **3. dia (ROI elemzés):** Mutass be egy konkrét sikertörténetet részletesen az 5 projekt közül.
+4. **4. dia (Javaslatok):** Bontsd ki részletesebben a cloud infrastruktúra konkrét előnyeit és a várható megtérülési időt.
+
+### Előkészítendő kiegészítő anyagok
+1. **Részletes implementációs terv:** Készíts egy dokumentumot a cloud átállás lépéseiről és ütemezéséről.
+2. **ROI számítási módszertan:** Dokumentáld részletesen a megtérülés-számítási módszeredet.
+3. **IT személyzeti terv:** Készíts leírást az új pozíciókról és szükséges készségekről.
+4. **Alternatív forgatókönyvek:** Dolgozz ki B és C tervet különböző költségvetési keretek esetére.
+
+### Strukturális javaslatok a félreértések megelőzésére
+1. **Kezdj egy problémameghatározással:** Mielőtt az adatokat bemutatnád, vázold fel a jelenlegi IT rendszer korlátait és kihívásait.
+2. **Használj "Ha... akkor..." formátumú állításokat:** "Ha növeljük a költségvetést 15%-kal, akkor X, Y és Z konkrét előnyöket érhetünk el."
+3. **Építs be "Gyakori Kérdések" diát:** Előzd meg a legnyilvánvalóbb kérdéseket egy dedikált diával a prezentáció végén.
+4. **Vezess végig egy esettanulmányt:** Mutass be egy hasonló méretű vállalat sikeres átállását a cloud infrastruktúrára a konkrét eredményekkel együtt.5. **Zárd összefoglaló üzenetekkel:** Minden szekció végén ismételd meg a fő üzenetet és annak kapcsolódását a javaslatodhoz.
+
+## Összefoglalás
+
+Prezentációd jelenlegi formájában számos kérdést vet fel a közönségben, különösen az adatok forrásával, a javaslatok konkrét részleteivel és az implementáció lépéseivel kapcsolatban. A legkritikusabb területek a 15%-os költségvetés-növelés indoklása és a cloud infrastruktúrára való átállás részletei. Javaslom,
+hogy építs be több kontextust az adatokhoz, részletesebben fejtsd ki a javaslataidat, és készíts elő kiegészítő anyagokat a várhatóan felmerülő technikai és stratégiai kérdésekre. Ezzel a felkészüléssel nemcsak megalapozottabbnak fog tűnni a prezentációd, de a közönség bizalmát is növeled a javaslataid 
+megvalósíthatóságában és értékében.
+
+12|audience|Érzelmi hatás|
+Kérlek, értékeld a PowerPoint prezentációmat a közönség szemszögéből, különös tekintettel az általa kiváltott érzelmi reakciókra és benyomásokra. Alább 
+találod a prezentáció tartalmát. Adj részletes visszajelzést arról, milyen érzelmi hatást kelthet az előadásom a hallgatóságban.
+
+## Amit szeretnék tőled:
+
+1. **Érzelmi reakciók azonosítása:**
+   - Milyen elsődleges érzelmeket válthat ki a prezentációm (pl. lelkesedés, aggodalom, meglepetés, kíváncsiság)?
+   - Vannak-e olyan pontok, ahol érzelmi csúcspontok vagy mélypontok jelentkezhetnek?
+   - Hogyan változhatnak az érzelmek az előadás különböző szakaszaiban?
+   - Mely részek kelthetnek vegyes vagy ellentmondásos érzéseket?
+
+2. **Az érzelmi hatás értékelése:**
+   - Mennyire illeszkedik az érzelmi tónus a téma jellegéhez és a célközönséghez?
+   - Megfelelő egyensúlyban van-e a racionális tartalom és az érzelmi hatás?
+   - Van-e érzelmi ív vagy történet, ami végigvezet a prezentáción?
+   - Milyen érzelmi állapotban távozhat a hallgatóság az előadás után?
+
+3. **Javaslatok az érzelmi hatás erősítésére:**
+   - Hol lehetne érzelmi horgonyokat elhelyezni a prezentációban?
+   - Milyen történeteket, metaforákat vagy példákat lehetne beépíteni?
+   - Hogyan lehetne növelni az érzelmi kapcsolódást a témához?
+   - Milyen vizuális vagy verbális eszközökkel lehetne fokozni a kívánt érzelmi hatást?
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: IT költségvetés elemzése
+1. oldal tartalma: Táblázat az utóbbi 3 év IT kiadásairól kategóriánként
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma:
+- Versenytársak átlagos IT költése GDP %-ában
+- IT kiadások megoszlása más vállalatoknál
+
+3. oldal címe: IT projektjeink hatékonysága
+3. oldal tartalma:
+- Az utóbbi 5 projekt ROI elemzése
+- Projektátfutási idők összehasonlítása
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- IT költségvetés növelése 15%-kal
+- Fókusz a cloud infrastruktúrára
+- IT csapat bővítése
+
+### Példa kimenet:
+
+# Prezentációd értékelése az érzelmi hatás szempontjából
+
+## Érzelmi reakciók azonosítása
+
+### Elsődleges érzelmi reakciók
+1. **1. dia (IT költségvetés elemzése):**
+   - **Domináns érzelem: Semlegesség, enyhe kíváncsiság**
+   - A száraz táblázatformátum kevés érzelmet vált ki
+   - A számadatok önmagukban nem keltenek erős érzelmi reakciót
+   - Hiányzik az "emberi tényező" vagy a nagyobb kontextus, ami mélyebb érdeklődést keltene
+
+2. **2. dia (Iparági benchmark):**
+   - **Domináns érzelem: Enyhe aggodalom, versenyhelyzeti feszültség**
+   - A versenytársakkal való összehasonlítás természetes versenyérzetet kelthet
+   - Amennyiben elmaradunk, szorongást vagy sürgető érzést válthat ki
+   - Ha jól állunk, elégedettséget vagy önelégültséget okozhat, ami gátolhatja a változás iránti nyitottságot
+
+3. **3. dia (IT projektjeink hatékonysága):**
+   - **Domináns érzelem: Elemző érdeklődés, esetleg büszkeség vagy frusztráció**
+   - A ROI adatok sikeresség esetén büszkeséget, kudarc esetén csalódottságot válthatnak ki
+   - Az átfutási idők látványa türelmetlenséget vagy tehetetlenség érzését keltheti
+   - A számok mögötti valós projekttörténetek hiányában az érzelmi bevonódás korlátozott marad
+
+4. **4. dia (Javaslatok):**
+   - **Domináns érzelem: Várakozás, szkepticizmus vagy remény**
+   - A pozitív jövőkép reményt kelthet
+   - A konkrét cselekvési terv hiánya bizonytalanságot okozhat
+   - A javasolt költségvetés-növelés ellenállást válthat ki a pénzügyi döntéshozókból
+   - A "cloud" és az "infrastruktúra" kifejezések technikai jellege miatt érzelmi távolságtartást eredményezhet
+
+### Érzelmi ív az előadás során
+A prezentáció jelenlegi formájában **nem rendelkezik határozott érzelmi ívvel**. Az érzelmi utazás inkább lapos, enyhe érdeklődéssel kezdődik, majd fokozatosan emelkedik a javaslatok felé, de igazi érzelmi csúcspont nélkül. Az adatok dominálnak az érzelmek felett, ami csökkentheti a befogadók érzelmi elköteleződését.
+
+### Vegyes vagy ellentmondásos érzelmeket kiváltó pontok
+- **Költségvetés-növelési javaslat (4. dia):** Ez jelenthet izgalmat az IT csapat számára, de aggályt a pénzügyi vezetőknek
+- **ROI elemzés (3. dia):** Sikeresség esetén büszkeség, de a korábbi kudarcok felemlegetése feszültséget kelthet
+- **Versenytársi benchmark (2. dia):** Motiválhatja a felzárkózást, de frusztrációt is okozhat, ha nagy a lemaradás
+
+## Az érzelmi hatás értékelése
+
+### Érzelmi tónus és célközönség illeszkedése: 5/10
+A prezentáció **túlságosan száraz és adatközpontú**, ami megfelelő lehet egy technokrata döntéshozói környezetben, de kevésbé hatékony a szélesebb vezetőség meggyőzésére. A pénzügyi döntéshozók általában értékelik a tényszerűséget, de az érzelmi bevonódás hiánya csökkenti az üzenet hatékonyságát és emlékezetes
+égét.
+
+### Racionális tartalom és érzelmi hatás egyensúlya: 3/10
+A prezentáció **erősen a racionális oldalra billen**, szinte teljesen mellőzve az érzelmi komponenseket. Ez ellentmondásban áll azzal a ténnyel, hogy a 
+döntéshozatal jelentős részben érzelmi alapú, még üzleti környezetben is. A száraz adatok mellett hiányoznak a személyes történetek, valós példák vagy metaforák, amelyek érzelmi kapcsolódási pontokat nyújtanának.
+
+### Érzelmi ív és történetmesélés: 2/10
+A prezentációból **hiányzik a narratív szerkezet**, amely érzelmi utazásra vinné a hallgatóságot. Nincs világos probléma-megoldás ív, ami segítene az érzelmi bevonódás kialakításában. A diák inkább különálló információs blokkokként hatnak, mintsem egy összefüggő történet fejezeteiként.
+
+### A hallgatóság várható távozási érzelmi állapota: Semleges, enyhén elgondolkodtató
+A jelenlegi prezentáció után a közönség valószínűleg **mérsékelt érdeklődéssel** távozik, de mély érzelmi lenyomat nélkül. A javasolt változtatások racionalitása talán elgondolkodtatja őket, de hiányzik az a sürgető érzés vagy lelkesedés, amely azonnali cselekvésre ösztönözne.
+
+## Javaslatok az érzelmi hatás erősítésére
+
+### Érzelmi horgonyok elhelyezése
+1. **Nyitó érzelmi horgony:** Kezdd egy rövid, de megdöbbentő ténnyel: "Tavaly 423 órát – ez több mint 10 teljes munkahét – vesztettünk el a lassú IT rendszerek miatt"
+2. **Köztes érzelmi horgony (2. dia után):** Mutass be egy valós esetet: "Amikor tavaly a versenytársunk fél óra alatt meg tudta válaszolni azt az ajánlatkérést, amihez nekünk három nap kellett"
+3. **Záró érzelmi horgony:** Fess egy képet a jövőről: "Képzeljük el a pillanatot, amikor a legutóbbi rendszerleállás helyett a csapatunk gyorsan és magabiztosan kezeli a helyzetet"
+
+### Beépíthető történetek és metaforák
+1. **Metafora az IT infrastruktúrára:** "Jelenlegi IT rendszerünk olyan, mint egy régi családi autó – megbízható, de nem bírja már a növekvő terheket és egyre többször hagy cserben minket"
+2. **Történet a cloud előnyeiről:** "A XYZ vállalat hasonló átállás után 3 hét alatt fejlesztett ki egy új szolgáltatást, ami korábban 6 hónapot vett volna
+igénybe"
+3. **Személyes történet:** "Emlékszem, amikor tavaly a szerverek leállása miatt Jones ügyfelünk majdnem felmondta a szerződést – ez a fajta kockázat megszüntethető lenne"
+
+### Az érzelmi kapcsolódás növelése
+1. **Humán szempontok bevezetése:** "Ez a projekt nemcsak számokat jelent, hanem 45 kolléga mindennapjait könnyítené meg"
+2. **Vizuális elemek:** Egészítsd ki a számadatokat arcokkal, csapatfotókkal, ügyfelektől származó idézetekkel
+3. **Interaktív elem:** "Kérdezd meg a hallgatóságot egy egyszerű szavazással: Hetente hányszor érezték lassúnak vagy akadozónak a rendszereinket?"
+4. **Ügyfélperspektíva:** "Íme néhány valós visszajelzés ügyfeleinktől a rendszereink sebességéről" – majd mutass idézeteket
+
+### Vizuális és verbális eszközök
+1. **Színkódolás érzelmi hatásra:** Használj piros színt a problémákra, zöldet a megoldásokra
+2. **Fokozatos áttűnés:** A jelenlegi helyzetképtől a javasolt jövőállapotig vizuálisan is mutasd be az átmenetet
+3. **Érzelmi töltésű szavak bevezetése:** Helyettesítsd a semleges kifejezéseket, például:
+   - "költségvetés-átcsoportosítás" helyett "befektetés a jövőbe"
+   - "cloud infrastruktúra" helyett "rugalmas, megbízható technológiai alap"
+   - "IT csapat bővítése" helyett "tehetséges szakemberek felszabadítása az innováció érdekében"
+4. **Ellentétpárok használata:** Mutasd be a "fájdalompontokat vs. megoldásokat" vizuálisan is ütköztetve
+
+## Összefoglalás
+
+Prezentációd jelenlegi formájában elsősorban adatközpontú és racionális érvekre épít, ami korlátozza az érzelmi hatását. A legfontosabb hiányosság a narratív szerkezet és a személyes kapcsolódási pontok hiánya. Ahhoz, hogy érzelmileg is megragadó előadás legyen, javaslom a következő változtatásokat:
+
+1. **Alakíts ki egy világos narratív ívet** a problémától a megoldásig, érzelmi csúcspontokkal
+2. **Egészítsd ki az adatokat valós történetekkel** és példákkal, amelyek emberi arcot adnak a számoknak
+3. **Használj metaforákat és vizuális elemeket** az absztrakt koncepciók kézzelfoghatóbbá tételére
+4. **Teremts egyensúlyt** a racionális érvek és az érzelmi hatás között
+
+Ezekkel a változtatásokkal a prezentációd nemcsak az értelem, hanem a szív szintjén is meggyőző lehet, ami növeli a javaslataid elfogadásának valószínűségét és a hallgatóság cselekvési hajlandóságát.
+
+13|audience|Figyelem fenntartása|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel a figyelem fenntartására és az érdeklődés megőrzésére. 
+Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, hogyan tartja fenn (vagy nem tartja fenn) a prezentációm a közönség figyelmét.
+## Amit szeretnék tőled:
+
+1. **A figyelem fenntartásának értékelése:**
+   - Melyek azok a pontok, ahol a közönség figyelme lankadhat?
+   - Vannak-e figyelemfelkeltő elemek, és ha igen, hatékonyak-e?
+   - Hogyan változik a figyelem intenzitása a prezentáció különböző szakaszaiban?
+   - Vannak-e túl hosszú vagy monoton részek az előadásban?
+
+2. **Figyelemfelkeltő elemek vizsgálata:**
+   - Mennyire hatékony a vizuális elemek használata a figyelem fenntartásában?
+   - Milyen ritmusban váltakoznak az információs blokkok?
+   - Mennyire segítik a figyelmet a szerkezeti elemek (alcímek, kiemelések, stb.)?
+   - Van-e interaktivitás vagy párbeszéd-lehetőség beépítve a figyelmet felkeltő módon?
+
+3. **Javaslatok a figyelem jobb fenntartására:**
+   - Hol és hogyan lehetne változatosabbá tenni az információátadást?
+   - Milyen figyelemfelkeltő technikákat lehetne alkalmazni?
+   - Hogyan lehetne javítani a prezentáció ritmusán?
+   - Milyen interaktív elemeket lehetne beépíteni?
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: IT költségvetés elemzése
+1. oldal tartalma: Táblázat az utóbbi 3 év IT kiadásairól kategóriánként
+
+2. oldal címe: Iparági benchmark
+2. oldal tartalma:
+- Versenytársak átlagos IT költése GDP %-ában
+- IT kiadások megoszlása más vállalatoknál
+
+3. oldal címe: IT projektjeink hatékonysága
+3. oldal tartalma:
+- Az utóbbi 5 projekt ROI elemzése
+- Projektátfutási idők összehasonlítása
+
+4. oldal címe: Javaslatok
+4. oldal tartalma:
+- IT költségvetés növelése 15%-kal
+- Fókusz a cloud infrastruktúrára
+- IT csapat bővítése
+
+### Példa kimenet:
+
+# Prezentációd értékelése a figyelem fenntartása szempontjából
+
+## A figyelem fenntartásának értékelése
+
+### Figyelemlanyhulási pontok azonosítása
+1. **1. oldal (IT költségvetés elemzése):**
+   - **Kritikus figyelemlanyhulási pont**: A táblázatos formátum azonnali figyelemvesztést okozhat
+   - A nyers adatok vizuális rendszerezés nélkül nem kötik le a hallgatóság figyelmét
+   - Hiányzik egy bevezető "hook" (horog), ami felkeltené az érdeklődést
+   - Az adattengerben nehéz azonosítani, mire kellene fókuszálni
+
+2. **2. oldal (Iparági benchmark):**
+   - **Mérsékelt figyelemlanyhulási kockázat**: A versenytársakkal való összehasonlítás természetes érdeklődést kelthet
+   - A felsorolás formátum azonban továbbra is korlátozott vizuális érdeklődést kelt
+   - A versenytársak névtelensége csökkenti a személyes bevonódást
+   - Hiányzik a vizuális hierarchia, ami irányítaná a tekintetet és a figyelmet
+
+3. **3. oldal (IT projektjeink hatékonysága):**
+   - **Fokozott figyelemlanyhulási kockázat**: A ROI és átfutási idők technikai jellege miatt
+   - Az öt projekt egyidejű áttekintése túl sok információ egyszerre
+   - A projektek személytelensége csökkenti az érzelmi bevonódást
+   - A második adattáblázat ezen a ponton már figyelemfáradást okozhat
+
+4. **4. oldal (Javaslatok):**
+   - **Mérsékelt figyelemélénkülési pont**: A konkrét javaslatok felkelthetik az érdeklődést
+   - A tömör, felsorolásszerű megjelenítés azonban nem maximalizálja a hatást
+   - Hiányzik a vizuális "jutalom" vagy csúcspont érzete az előző adatterhelés után
+   - Nincs erős zárás vagy következő lépések, ami fenntartaná a figyelmet az előadás után
+
+### A figyelem intenzitásának változása
+A prezentáció figyelmi görbéje **fordított U alakú**: mérsékelt kezdeti érdeklődés, majd fokozatos csökkenés a sok adat miatt, végül enyhe emelkedés a javaslatoknál. Hiányzik azonban a hatásos nyitó "hook" és a meggyőző záró csúcspont, ami keretbe foglalná a figyelmi ívet.
+
+A prezentáció jelenlegi formájában **körülbelül 60%-os figyelemmegtartással** számolhat a teljes időtartam alatt, ami fejleszthető lenne.
+
+### Monoton vagy túl hosszú részek
+1. **Az IT költségvetési táblázat (1. oldal)** – túl sok szám, vizuális tagolás nélkül
+2. **Az öt projekt ROI elemzése (3. oldal)** – részletekbe menő, nehezen követhető adatok
+3. **A szakmai zsargon használata** a teljes prezentáció során monotóniát okoz
+
+## Figyelemfelkeltő elemek vizsgálata
+
+### Vizuális elemek hatékonysága: 3/10
+- **Hiányzó vizuális hierarchia**: Nem látható, hogy a táblázatok és listák hogyan vannak vizuálisan strukturálva
+- **Egyhangú prezentációs formátum**: Minden dia hasonló szerkezetű (cím + adatok/lista)
+- **Hiányzó grafikonok**: A számadatok vizualizációja (diagramok, infografikák) teljesen hiányzik
+- **Színkódolás hiánya**: Nincs jele színhasználatnak az adatok értelmezésének megkönnyítésére
+
+### Információs blokkok ritmusa: 4/10
+- **Egyenletes, de monoton ritmus**: Minden dia nagyjából azonos mennyiségű információt tartalmaz
+- **Hiányzó váltakozás**: Nincs váltakozás az információsűrű és -ritkább diák között
+- **Nincs vizuális szünet**: Hiányoznak a vizuális pihenőpontok, amelyek megkönnyítenék az információ feldolgozását
+- **Korlátozott változatosság**: A formátum (táblázat, lista) minimális változatosságot mutat
+
+### Szerkezeti elemek segítsége: 5/10
+- **Világos címek**: A diák címei egyértelműek és tájékoztatóak
+- **Korlátozott alcímek**: Nem látható, hogy lennének alcímek vagy további tagolási eszközök
+- **Hiányzó kiemelések**: Nem látható, hogy lennének kiemelve kulcsfontosságú adatok vagy üzenetek
+- **Minimális navigációs segédeszközök**: Nincs jele progress bar-nak vagy egyéb navigációs segédletnek
+
+### Interaktivitás és párbeszéd: 2/10
+- **Passzív információközlés**: A prezentáció egyirányú kommunikációra épül
+- **Hiányzó kérdések**: Nincsenek beágyazott kérdések vagy gondolkodtató pontok
+- **Nincs tevékenységváltás**: A hallgatóság szerepe végig passzív marad
+- **Hiányzó részvételi lehetőségek**: Nincs lehetőség a közönség bevonására
+
+## Javaslatok a figyelem jobb fenntartására
+
+### Információátadás változatossá tétele
+1. **Adatok vizualizálása**: Alakítsd át a táblázatokat szemléletes grafikonokká
+   - Az IT költségvetést oszlopdiagramra vagy kördiagramra
+   - Az iparági benchmarkot radar diagramra vagy versenyképességi mátrixra
+   - A projekt ROI-t idővonalas infografikára
+
+2. **A "főszereplők" bemutatása**: Adj arcot az adatoknak
+   - Mutass be egy-egy kulcsprojektet részletesebben
+   - Használj idézeteket a csapattagoktól vagy ügyfelektől
+   - Készíts mini-esettanulmányt egy sikeres vagy tanulságos projektről
+
+3. **Változatos információsűrűség**: Építs be ritmusváltásokat
+   - Használj egy-egy "egyszerű üzenet" diát a komplexebb adatdiák között
+   - Iktass be egy-egy kérdésdiát az adatblokkok közé
+   - Válts a perspektívákon: technikai → üzleti → felhasználói szemszög
+
+### Figyelemfelkeltő technikák
+1. **Nyitó "hook" beépítése**: Kezdd egy meglepő adattal vagy kérdéssel
+   - "Tudtad, hogy a munkaidő 23%-át vesztegetjük el lassú IT rendszerek miatt?"
+   - "Mi történne, ha holnaptól 30%-kal gyorsabban működnének a rendszereink?"
+   - Egy rövid (30mp) videó egy frusztráló IT problémáról, amit mindenki ismer
+
+2. **Vizuális meglepetéselemek**:
+   - Animáld a költségvetési arányok változását
+   - Használj színes hőtérképet a hatékonysági értékek ábrázolására
+   - Készíts előtte-utána illusztrációkat a javasolt változtatásokhoz
+
+3. **Történetmesélés beépítése**:
+   - Keretezd az adatokat egy összefüggő narratívába
+   - Használj metaforákat ("Az IT rendszerünk olyan, mint egy régi autó...")
+   - Készíts egy mini-forgatókönyvet az ideális jövőképről
+
+4. **Vizuális hierarchia megteremtése**:
+   - Használj kontrasztot a kulcsinformációk kiemelésére
+   - Alkalmazz következetes színkódolást (pl. piros = kockázat, zöld = lehetőség)
+   - Készíts "vizuális útvonalat" a dián belül, ami vezeti a tekintetet
+
+### A prezentáció ritmusának javítása
+1. **A 3-1-3-1 szabály alkalmazása**:
+   - Három komplex információt tartalmazó dia után
+   - Egy egyszerű, "levegős" dia, ami csak egy fő üzenetet tartalmaz
+   - Majd újabb három információdús dia
+   - Végül ismét egy egyszerű összefoglaló pont
+
+2. **Információs blokkok átalakítása**:
+   - Bontsd az 1. oldal táblázatát két diára: trend, majd kategóriák
+   - A 3. oldal öt projektjét mutasd be strukturáltabban, akár 2-3 dián
+   - A javaslatokat bontsd ki részletesebben, mindegyikhez vizuális támogatással
+
+3. **Tempóváltások beépítése**:
+   - Kezdj lassabban, a kontextus megteremtésével
+   - Gyorsíts az adatok bemutatásánál
+   - Lassíts újra a javaslatok részletezésénél
+   - Zárd dinamikusan, a következő lépések világos meghatározásával
+
+### Interaktív elemek beépítése
+1. **Kérdések, amelyek aktiválják a hallgatóságot**:
+   - "Önök szerint melyik területen teljesítettünk legjobban az elmúlt évben?"
+   - "Ha választaniuk kellene, melyik projektet priorizálnák?"
+   - "Milyen hatással lenne a részlegükre egy 30%-os sebességnövekmény?"
+
+2. **Mini-tevékenységek beépítése**:
+   - Kérd meg a hallgatóságot, hogy tippeljék meg egy kulcsadat értékét
+   - Szavazás a legfontosabb IT problémákról (akár mobil applikációval)
+   - Rövid páros megbeszélés: "Fordulj a szomszédodhoz, és beszéljétek meg..."
+
+3. **Fizikai elemek bevonása**:
+   - Oszd ki a prezentáció egyoldalas összefoglalóját aktivitási pontokkal
+   - Készíts mini-infografikákat, amiket kézbe vehetnek
+   - Használj vizuális metaforákat (pl. puzzle darabok a komplex rendszer illusztrálására)
+
+## Összefoglalás
+
+Prezentációd jelenlegi formájában komoly kihívásokkal küzd a figyelem fenntartása terén. A táblázatos és listás formátum, a vizuális egyhangúság és az interaktivitás hiánya jelentősen csökkenti a hallgatóság figyelmének intenzitását és időtartamát.
+
+A legfontosabb fejlesztési területek:
+1. **Az adatok vizualizálása** grafikonok, diagramok és infografikák formájában
+2. **Történetmesélés és emberi elemek** beépítése a száraz adatok mellé
+3. **Ritmusváltások és vizuális hierarchia** kialakítása a figyelem irányítására
+4. **Interaktív elemek** beépítése a passzív hallgatás megtörésére
+
+Ezen változtatások bevezetésével a prezentációd nemcsak informatív lesz, hanem le is köti a hallgatóság figyelmét, ami jelentősen növelheti az üzeneted 
+hatásosságát és a javaslataid elfogadásának valószínűségét.
+
+14|audience|Meggyőző erő|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel annak meggyőző erejére. Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, hogy mennyire voltál meggyőzve az elhangzott érvek és bemutatott adatok által.
+
+## Amit szeretnék tőled:
+
+1. **A meggyőzés hatékonyságának értékelése:**
+   - Meggyőzött-e a prezentáció a fő álláspontjáról?
+   - Melyek voltak a legerősebb és leggyengébb érvek?
+   - Mikor éreztem a meggyőzés csúcspontját - mely részeknél voltam leginkább meggyőzve?
+   - Voltak-e olyan érvek vagy adatok, amelyek csökkentették a meggyőző erőt?
+
+2. **Az érvelési technikák hatékonysága:**
+   - Mennyire volt eredményes az adatok felhasználása a meggyőzésben?
+   - Hatásosak voltak-e a használt retorikai eszközök (pl. történetek, hasonlatok, párhuzamok)?
+   - Hogyan befolyásolta a prezentáció struktúrája a meggyőző erőt?
+   - Milyen érzelmi hatást váltott ki a prezentáció, és ez hogyan erősítette vagy gyengítette a meggyőzést?
+
+3. **Javaslatok a meggyőző erő növelésére:**
+   - Hogyan lehetne erősíteni az érvelés logikai felépítését?
+   - Milyen további bizonyítékok vagy példák tehetnék meggyőzőbbé a prezentációt?
+   - Mely retorikai eszközöket lehetne hatékonyabban alkalmazni?
+   - Hogyan lehetne kezelni a potenciális ellenérveket vagy kételyeket?
+
+## Példa, hogyan szeretném a visszajelzést:
+
+### Példa bemenet:
+
+prezentációm:
+1. oldal címe: Elektromos járművekre való átállás
+1. oldal tartalma: Statisztikák az üvegházhatású gázok kibocsátásáról a közlekedési szektorban
+
+2. oldal címe: Az elektromos járművek előnyei
+2. oldal tartalma:
+- Környezeti hatások
+- Üzemeltetési költségek
+- Kormányzati támogatások
+
+3. oldal címe: Gyakorlati megfontolások
+3. oldal tartalma:
+- Töltőinfrastruktúra jelenlegi állapota
+- Hatótávolság és töltési idő
+- Akkumulátor élettartam
+
+4. oldal címe: Javasolt lépések
+4. oldal tartalma:
+- Flottánk 30%-ának lecserélése elektromos járművekre 2 éven belül
+- Céges töltőállomások telepítése
+- Lízingkonstrukciók a költségek elosztására
+
+### Példa kimenet:
+
+# A prezentációd meggyőző erejének értékelése hallgatói szemszögből
+
+## A meggyőzés hatékonyságának értékelése
+
+### Meggyőzött-e a fő álláspontról?
+Hallgatóként részben meggyőzött a prezentációd arról, hogy érdemes átállni elektromos járművekre, de **nem teljesen**. A javasolt 30%-os flottacsere ambiciózusnak tűnik az ismertetett kihívások fényében. A prezentáció inkább információt közölt, mint meggyőzött - hiányzott a határozott állásfoglalás és az erős érzelmi motiváció.
+
+### A legerősebb és leggyengébb érvek
+**Legerősebb érvek:**
+- Az üzemeltetési költségekről szóló adatok különösen meggyőzőek voltak, mivel konkrét pénzügyi előnyöket mutattak be
+- A kormányzati támogatások említése reális utat kínált a kezdeti beruházási költségek csökkentésére
+
+**Leggyengébb érvek:**
+- A környezeti hatásokról szóló általános statisztikák nem kötődtek közvetlenül a vállalatunk helyzetéhez
+- A töltőinfrastruktúra kihívásainak bemutatása valójában inkább gyengítette az átállás melletti érvelést
+
+### A meggyőzés csúcspontja
+A prezentáció **meggyőző ereje az üzemeltetési költségeket bemutató résznél érte el csúcspontját**. Itt éreztem először, hogy az elektromos járművek valóban előnyösek lehetnek számunkra. A konkrét számadatokkal alátámasztott hosszútávú megtakarítások jelentős hatást gyakoroltak rám.
+
+### A meggyőző erőt csökkentő elemek
+Több ponton is gyengült a meggyőző erő:
+- A **töltőinfrastruktúra hiányosságainak** részletezése után nem kaptam megnyugtató választ erre a problémára
+- A **hatótávolságról szóló rész** olyan korlátokat említett, amelyekre a prezentáció nem kínált megfelelő megoldást
+- Az **akkumulátor élettartamáról** szóló információk bizonytalanságot keltettek a hosszútávú gazdaságosságot illetően
+- A javaslatnál hiányzott az üzleti szempontú **megtérülési számítás**
+
+## Az érvelési technikák hatékonysága
+
+### Az adatok felhasználásának hatékonysága: 6/10
+Az adathasználat **részben hatékony volt**, de lehetett volna célzottabb. A környezeti statisztikák túl általánosak voltak, míg az üzemeltetési költségekre
+vonatkozó adatok meggyőzőek. Hiányoztak azonban:
+- A **versenytársak gyakorlatára** vonatkozó összehasonlító adatok
+- **Vállalat-specifikus megtérülési** számítások
+- **Esettanulmányok** hasonló flottaváltást végrehajtó cégekről
+
+### A retorikai eszközök hatékonysága: 4/10
+A prezentáció **kevés retorikai eszközt** alkalmazott a meggyőzéshez:
+- Hiányoztak a **személyes történetek** vagy valós példák, amelyek érzelmi kapcsolódást teremtettek volna
+- Nem voltak **szemléletes metaforák vagy hasonlatok** a komplex információk megvilágítására
+- Nem használtál **"előtte-utána" jellegű kontrasztokat** a változás előnyeinek kiemelésére
+
+### A struktúra hatása a meggyőző erőre: 5/10
+A prezentáció **logikus sorrendben** haladt az általános információktól a konkrét javaslatok felé, de:
+- Nem kezdődött **erős problémafelvetéssel**, ami indokolta volna a változás szükségességét
+- Az előnyök és kihívások **egyensúlya elbillent** - sok időt szenteltél a nehézségeknek
+- Hiányzott az **érvelés fokozatosan felépített íve**, ami a végén erőteljes konklúzióhoz vezetett volna
+
+### Érzelmi hatás és annak szerepe: 3/10
+A prezentáció **főként a logikára és tényekre** épített, de:
+- Nem keltett **sürgősségérzetet** a változtatásra
+- Nem teremtett **érzelmi kapcsolódást** a döntéshozóban (büszkeség, előrelátás érzése)
+- Nem vázolt fel **inspiráló jövőképet** az elektromos flotta működéséről
+- A **kihívásokra fektetett hangsúly** inkább szorongást vagy ellenállást válthatott ki
+
+## Javaslatok a meggyőző erő növelésére
+3. **Készíts B-tervet** a főbb aggályokra: "Ha a töltőinfrastruktúra fejlesztése késik, átmenetileg ezeket a megoldásokat tudjuk alkalmazni..."
+4. **Vonj be más területek szakértőit** a komplex kérdések megválaszolására: pénzügy, logisztika, fenntarthatóság
+5. **Használj konkrét példákat a hasonló kihívásokat sikeresen leküzdő vállalatokról**
+
+2. **Adatok és bizonyítékok gazdagítása:**
+   - Releváns statisztikák és kutatási eredmények
+   - Esettenulmányok és gyakorlati példák
+   - Összehasonlító elemzések és benchmarkok
+   - Megbízható adatforrások azonosítása
+
+3. **Különböző perspektívák bemutatása:**
+   - Eltérő szakmai álláspontok a témával kapcsolatban
+   - Gyakori vitatott kérdések és kritikák
+   - Kulturális vagy regionális különbségek a téma megközelítésében
+   - Etikai megfontolások és dilemmák
+
+4. **Gyakorlati alkalmazás támogatása:**
+   - Sikeres implementációk és "legjobb gyakorlatok"
+   - Gyakori buktatók és elkerülési stratégiák
+   - Praktikus eszközök és módszerek a témához kapcsolódóan
+   - Mérhető eredmények és sikerkritériumok
+
+5. **Forrásjavaslatok:**
+   - Szakértői könyvek és tudományos publikációk
+   - Megbízható online források és adatbázisok
+   - Releváns szakmai szervezetek és közösségek
+   - Hasznos multimédiás tartalmak (előadások, podcastok, videók)
+
+15|researcher|Általános|
+Kérlek, segíts a téma átfogóbb megértésében, hogy prezentációmat magabiztosabban és szakértői tudással támogatva tudjam előadni. Az általad adott információkat felhasználnám a felkészüléshez, esetleges kérdések megválaszolásához, vagy akár a prezentáció bővítéséhez.
+
+16|mentor|Általános (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Mint prezentációs szakértő, elemezd a tartalmat az alábbi szempontok szerint:
+1. Logikai felépítés és gondolatmenet
+2. Kulcsüzenetek egyértelműsége
+3. Szöveg mennyisége és tömörsége
+4. Szakmai nyelvezet megfelelősége felsővezetői közönségnek
+
+Adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+
+17|mentor|Struktúra (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Értékeld a prezentáció struktúráját egy felsővezetői értekezlet kontextusában. A diák száma és sorrendje optimális? Vannak felesleges vagy hiányzó részek? Javasolj esetleges átrendezést vagy kiegészítést, amely erősítené az üzenet átadását!      
+
+Maximum három tanácsod adj, és adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+  
+18|mentor|Nyelvezet (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Elemezd a prezentáció nyelvezetét és fogalmazásmódját! Azonosíts bármilyen túl összetett vagy homályos megfogalmazást, szakzsargont, ami nem megfelelő felsővezetőknek. Javasolj alternatív, tömörebb és hatékonyabb megfogalmazásokat a kulcsüzenetek átadására!
+
+Maximum három tanácsod adj, és adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+  
+19|mentor|Üzleti fókusz (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Értékeld, mennyire fókuszál a prezentáció a lényegi üzleti szempontokra és eredményekre. Emeld ki, hol lehetne erősíteni az üzleti értékre, ROI-ra vagy 
+stratégiai jelentőségre vonatkozó üzeneteket. Adj javaslatokat, hogyan lehetne jobban kiemelni a vezetők számára releváns információkat!
+
+Maximum három tanácsod adj, és adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+  
+20|mentor|Adatok és számok prezentálása (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Elemezd az adatok és számok bemutatásának módját! Mennyire hatékonyan támasztják alá az üzeneteket? Javasolj módosításokat, amelyekkel az adatok jobban 
+értelmezhetők, és a fő következtetések egyértelműbbek lennének a felsővezetők számára!
+
+Maximum három tanácsod adj, és adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+  
+21|mentor|Fő mondanivaló (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Melyek a legfőbb üzenetek? Hogyan lehetne ezeket még világosabban, tömörebben megfogalmazni egy felsővezetői közönség számára?
+
+Maximum három tanácsod adj, és adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+  
+22|mentor|Lényegretörőbb (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Melyik részek feleslegesek vagy túl részletesek egy felsővezetői találkozón? Hogyan lehetne a tartalmat lényegretörőbbé tenni?
+
+Maximum három tanácsod adj, és adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+
+23|mentor|Közönség bevonása (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Milyen interaktív elemekkel vagy kérdésekkel tehetnénk dinamikusabbá az előadást, hogy bevonjuk a felsővezetői közönséget?
+
+Maximum három tanácsod adj, és adj konkrét javaslatokat, amiket bemásolhatok a prezentációmba.
+
+24|audience|Általános értékelés átlagos hallgató szemszögéből (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Étékeld a prezentációt egy hallgató szemszögéből. Hogyan értenéd, játszanád vissza a prezentációt? Mennyire érthető? Mennyire világos az üzenet? Szerinted mi a prezentáció fő mondanivalója?
+
+25|audience|Általános értékelés felsővezető szemszögéből (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Étékeld a prezentációt egy felsővezető szemszögéből. Hogyan értenéd, játszanád vissza a prezentációt? Mennyire érthető? Mennyire világos az üzenet? Szerinted mi a prezentáció fő mondanivalója?
+
+26|audience|Első benyomás átlagos hallgató szemszögéből (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Értékeld a prezentációt egy átlagos hallgató szemszögéből. Mi az első benyomás a tartalomról? Mennyire világos az üzenet? Mennyi idő volt elolvasni? Mely részek ragadják meg a figyelmet, és mely részek tűnhetnek kevésbé fontosnak? Mely területek tűnhetnek túl részletesnek vagy épp nem elég informatívnak egy átlagos hallgató számára?
+
+27|audience|Első benyomás felsővezető szemszögéből (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Értékeld a prezentációt egy felsővezető szemszögéből. Mi az első benyomás a tartalomról? Mennyire világos az üzenet? Mennyi idő volt elolvasni? Mely részek ragadják meg a figyelmet, és mely részek tűnhetnek kevésbé fontosnak? Mely területek tűnhetnek túl részletesnek vagy épp nem elég informatívnak egy 
+döntéshozó számára?
+
+28|audience|Felmerülő kérdések (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Készíts listát a potenciális kérdésekről, amelyeket a hallgatók tehetnek fel, és javasolj hatékony válaszokat!
+
+29|audience|Döntéshozó szemszögéből (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Értékeld a prezentációt egy döntéshozó szempontjából: mennyire segíti a döntéshozatalt? Világosak a javasolt következő lépések vagy döntési pontok? A prezentáció elegendő háttérinformációt nyújt a megalapozott döntéshez? Milyen kérdések maradhatnak megválaszolatlanul egy elfoglalt vezető számára? Adj visszajelzést a tartalomról egy felsővezető perspektívájából aki döntést hozna a prezentáció alapján!
+
+30|audience|Időhatékonyság (zero-shot)|
+Felsővezetői értekezlethez készítek PowerPoint prezentációt. Ajd tanácsokat a prezentáció további szerkesztéséhez a felsővezetői prezentációkhoz szükséges formátum és stílus figyelembevételével.
+
+Értékeld a prezentációt az időhatékonyság szempontjából, ahogy egy elfoglalt vezető látná. Mely részek tűnhetnek redundánsnak vagy túl részletesnek? Hol hiányozhat egy gyors áttekintés vagy összefoglaló? Hogyan lehetne optimalizálni ezt a prezentációt egy 15-20 perces időkerethez? Adj visszajelzést a tartalom és az időfelhasználás egyensúlyáról!
+
+31|mentor|Pyramid Principle (zero-shot)|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a Pyramid Principle alapján. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám a prezentációmat hatékonyabb felsővezetői kommunikáció 
+érdekében.
+
+## A Pyramid Principle röviden:
+- Top-down kommunikáció: konklúzió → érvek → alátámasztó adatok
+- A legfontosabb, összefoglaló információ előre kerül
+- Az érveket logikusan rendszerezzük a konklúzió alátámasztására
+- A részleteket csak az érvek alátámasztására használjuk
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm szerkezetét a Pyramid Principle szempontjából
+   - A főüzenet/konklúzió elől szerepel, vagy el van rejtve?
+   - Az érvek logikusan támasztják alá a konklúziót?
+   - A részletek megfelelően vannak hierarchiába rendezve?
+
+2. Adj konkrét javaslatokat:
+   - A tartalom átszervezésére a Pyramid Principle szerint
+   - Az oldalcímek javítására (konklúzió/kulcsüzenet megfogalmazása címekben)
+   - Az executive summary kialakítására (ha hiányzik)
+
+32|mentor|MECE (zero-shot)|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a MECE (Mutually Exclusive, Collectively Exhaustive) elv alapján. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám prezentációm logikai szerkezetét.
+
+## A MECE elv röviden:
+- **Mutually Exclusive**: Az információk ne legyenek átfedésben, minden elem különálló kategóriába tartozzon
+- **Collectively Exhaustive**: Az információk együttesen fedjék le a teljes releváns területet, ne maradjon ki semmi fontos
+- A MECE struktúra biztosítja, hogy minden fontos elemet lefedünk, de semmit nem ismételünk feleslegesen
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm MECE szempontból:
+   - Az információk átfedésmentesek (Mutually Exclusive)?
+   - Az információk együttesen teljes képet adnak (Collectively Exhaustive)?
+   - Az oldalak közötti és oldalakon belüli kategorizálás logikus?
+
+2. Adj konkrét javaslatokat:
+   - A tartalom újrakategorizálására a MECE elvek szerint
+   - A hiányzó elemek azonosítására (ha nem "Collectively Exhaustive")
+   - Az átfedések kiküszöbölésére (ha nem "Mutually Exclusive")
+
+33|mentor|Storytelling (zero-shot)|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a hatékony storytelling alapelvek szerint. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám a prezentációm történetmesélési struktúráját felsővezetői közönség számára.
+
+## A hatékony storytelling röviden:
+- A prezentáció egy logikus történetet mesél el (helyzet → komplikáció → kérdés → válasz)
+- A történet elemei egymásra épülnek, létrehozva egy érzelmi ívet
+- A történet feszültséget teremt, majd feloldja azt
+- A hallgatóság számára releváns és könnyen követhető narratívát használ
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm storytelling szempontból:
+   - Van-e benne világos storyline struktúra (helyzet, komplikáció, kérdés, válasz)?
+   - Tartalma logikusan épül-e egymásra?
+   - Van-e benne érzelmi vagy üzleti feszültség, amit felold?
+   - A fő üzenet compelling (meggyőző) formában jelenik meg?
+
+2. Adj konkrét javaslatokat:
+   - A prezentáció átstrukturálására a SCQA framework szerint:
+     - Situation (Helyzet): Mi a jelenlegi állapot?
+     - Complication (Komplikáció): Mi változott vagy mi a probléma?
+     - Question (Kérdés): Mit kell tennünk?
+     - Answer (Válasz): Mi a javaslatunk?
+   - Az érzelmi/üzleti feszültség építésére és feloldására
+   - A kulcsüzenetek impaktteljes megfogalmazására
+
+34|mentor|Hatásos címek (zero-shot)|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációm oldalcímeit a McKinsey-féle "action titles" megközelítés alapján. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan alakíthatnám át a címeket hatásos, cselekvő állításokká.
+
+## A hatásos oldalcímek (action titles) jellemzői:
+- Teljes állítást tartalmaznak, nem csak témát jelölnek
+- Közvetítik az oldal fő üzenetét/következtetését
+- Specifikusak és adatokkal támasztják alá az állítást (amikor lehetséges)
+- Segítenek a prezentációt gyorsan átfutóknak is megérteni a fő üzeneteket
+- Önmagukban is értelmesek és összefüggőek, elmondják a prezentáció fő történetét
+
+## Amit szeretnék tőled:
+
+1. Értékeld az oldalcímeimet:
+   - Állítást fogalmaznak meg vagy csak témát jelölnek?
+   - Közvetítik-e az oldal fő üzenetét?
+   - Elég specifikusak és adatalapúak-e?
+   - Összeállnak-e egy koherens történetté?
+
+2. Adj konkrét javaslatokat:
+   - Minden oldalcím átfogalmazására "action title" formátumban
+   - Biztosítsd, hogy a címek együtt egy koherens történetet meséljenek el
+   - Ahol lehetséges, építs be konkrét számokat/adatokat a címekbe
+
+35|mentor|Adatvizualizáció (zero-shot)|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmban található adatvizualizációkat. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan javíthatnám az adatok megjelenítését a hatékonyabb kommunikáció
+érdekében.
+
+## A hatékony adatvizualizáció alapelvei:
+- Az adatvizualizáció típusának illeszkednie kell a kommunikálni kívánt üzenethez
+- Csak a szükséges adatokat jeleníti meg, kerüli az adatzajt
+- Intuitív módon hangsúlyozza a legfontosabb adatpontokat
+- A címek és feliratok egyértelműen közvetítik az adatokból levonható következtetést
+- Következetes színkódolást és formázást használ
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációmban szereplő adatvizualizációkat:
+   - Megfelelő vizualizációs típust használok az adott üzenethez?
+   - Az adatok megjelenítése világos és könnyen értelmezhető?
+   - A vizualizációk kiemelik a kulcsfontosságú üzeneteket?
+   - A diagramok, grafikonok címei közvetítik a fő következtetést?
+
+2. Adj konkrét javaslatokat:
+   - A vizualizáció típusának módosítására (ha szükséges)
+   - A megjelenítés egyszerűsítésére és a kulcsinformációk kiemelésére
+   - A címek és feliratok javítására
+   - A színek és formázás hatékonyabb használatára
+
+36|mentor|Adatszintézis (zero-shot)|
+Kérlek, értékeld és optimalizáld a PowerPoint prezentációmat a hatékony adatszintézis elveinek megfelelően. Alább találod a prezentáció tartalmát. Adj szakértői tanácsokat, hogyan léphetnék túl az egyszerű adatismertetésen és összefoglaláson a mélyebb elemzés és szintézis irányába.
+
+## A hatékony adatszintézis lényege:
+- **Túllép az egyszerű adatközlésen**: Nem csak tényeket közöl, hanem feltárja azok jelentőségét
+- **Összefüggéseket azonosít**: Kapcsolatokat és mintázatokat tár fel különálló adatpontok között
+- **Következtetéseket von le**: Megmutatja az adatok "so what" jelentőségét
+- **Javaslatokhoz vezet**: Az adatokból levont tanulságokat cselekvési tervvé alakítja
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációm adatfeldolgozási mélységét:
+   - Pusztán adatközlés (facts)
+   - Rendszerezett összefoglalás (summary)
+   - Valódi szintézis és jelentőségértelmezés (synthesis)
+
+2. Adj konkrét javaslatokat:
+   - Hogyan léphetnék túl az egyszerű adatismertetésen
+   - Milyen összefüggéseket, mintázatokat tárhatnék fel az adataimban
+   - Hogyan fogalmazhatnám meg a "so what" tanulságokat
+   - Milyen kérdéseket kellene feltennem az adatok mélyebb értelmezéséhez
+
+37|audience|Általános (zero-shot)|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből. Alább találod a prezentáció tartalmát. Adj szakértői visszajelzést arról, hogyan hatott rám mint közönségre a prezentációd, és hogyan javíthatnád az előadásodat a hatékonyabb kommunikáció érdekében.
+
+## Amit szeretnék tőled:
+
+1. Értékeld a prezentációt egy tipikus néző szemszögéből
+   - Mennyire volt világos a fő üzenet?
+   - Mennyire tudtam követni a gondolatmenetet?
+   - Mely részek voltak érdekesek vagy unalmasak?       
+   - Mi keltette fel és mi veszítette el a figyelmemet?
+
+2. Adj konkrét javaslatokat:
+   - A tartalom átszervezésére a nézői figyelem fenntartása érdekében
+   - A vizuális elemek vagy szövegek javítására
+   - A kulcsüzenet hatékonyabb átadására
+
+38|audience|Első benyomások (zero-shot)|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel az első benyomásokra. Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, hogyan hatott rám mint közönségre a prezentációd első pillanatai.
+
+## Amit szeretnék tőled:
+
+1. **Első benyomások részletes leírása:**
+   - Mi volt az azonnali reakcióm a prezentáció első diájára?
+   - Milyen érzéseket és gondolatokat keltett bennem a kezdés?
+   - Milyen elvárásokat alakítottam ki a prezentáció további részével kapcsolatban?
+   - Milyen vizuális elemek vagy szavak ragadták meg a figyelmemet vagy tévesztettek meg?
+
+2. **A kezdés hatékonysága:**
+   - Mennyire keltette fel a prezentáció kezdete az érdeklődésemet?
+   - Mennyire volt világos a téma és a cél az első pillanatokban?
+   - Mennyire éreztem magam bevonva vagy elkötelezve az első dia után?
+
+3. **Javaslatok a kezdés javítására:**
+   - Hogyan lehetne erősebb első benyomást kelteni?
+   - Milyen alternatív kezdést javasolnék a nagyobb hatás érdekében?
+   - Milyen elemeket hiányoltam az első percekben?
+
+39|audience|Fő mondanivaló (zero-shot)|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel a fő mondanivaló befogadására. Alább találod a prezentáció
+tartalmát. Adj részletes visszajelzést arról, hogyan értettem meg a prezentáció központi üzenetét.
+
+## Amit szeretnék tőled:
+
+1. **A fő mondanivaló azonosítása:**
+   - Mit értettem meg a prezentáció legfontosabb üzeneteként?
+   - Egyértelmű volt-e számomra a prezentáció célja?
+   - Mikor vált világossá a fő üzenet - az elején, közben vagy csak a végén?
+   - Voltak-e olyan részek, ahol elvesztettem a fő mondanivaló fonalát?
+
+2. **Az üzenet átadásának hatékonysága:**
+   - Mennyire volt meggyőző az érvelés?
+   - Logikusan épült-e fel a mondanivaló?
+   - Az adatok és példák hogyan segítették vagy nehezítették a fő üzenet megértését?
+   - Milyen érzelmi reakciókat váltott ki belőlem a fő üzenet?
+
+3. **Javaslatok a fő mondanivaló erősítésére:**
+   - Hogyan lehetne világosabbá tenni a központi üzenetet?
+   - Milyen technikákkal lehetne emlékezetesebbé tenni a fő mondanivalót?
+   - Milyen struktúrával lehetne jobban támogatni az üzenet átadását?
+
+40|audience|Felmerülő kérdések (zero-shot)|
+Kérlek, értékeld a PowerPoint prezentációmat a közönség szemszögéből, különös tekintettel azokra a kérdésekre és tisztázást igénylő pontokra, amelyek az előadás közben vagy után felmerülhetnek. Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, milyen kérdéseket válthat ki az előadásom a
+hallgatóságból.
+
+## Amit szeretnék tőled:
+
+1. **Várható kérdések azonosítása:**
+   - Milyen tisztázó kérdések merülhetnek fel a közönségben?
+   - Hol lehetnek hiányosságok vagy nem elég világos részek az anyagban?
+   - Milyen szakmai vagy technikai részletekre kérdezhetnek rá?
+   - Milyen ellenvetések vagy kritikus észrevételek fogalmazódhatnak meg?
+
+2. **A kérdések típusainak értékelése:**
+   - Melyek azok a kérdések, amelyek a megértést segítik?
+   - Milyen kérdések jelezhetnek szkepticizmust vagy ellenállást?
+   - Melyek lehetnek azok a pontok, ahol az előadás továbbgondolásra ösztönöz?
+   - Milyen gyakorlati alkalmazásokra vonatkozó kérdések merülhetnek fel?
+
+3. **Javaslatok a kérdések kezelésére:**
+   - Milyen előzetes válaszokat építhetnék be az előadásba?
+   - Melyik diákat kellene kiegészíteni további információkkal?
+   - Milyen kiegészítő anyagokat készítsek elő a várható kérdésekre?
+   - Hogyan strukturálhatnám másképp az előadást, hogy megelőzzem a félreértéseket?
+
+41|audience|Érzelmi hatás (zero-shot)|
+Kérlek, értékeld a PowerPoint prezentációmat a közönség szemszögéből, különös tekintettel az általa kiváltott érzelmi reakciókra és benyomásokra. Alább 
+találod a prezentáció tartalmát. Adj részletes visszajelzést arról, milyen érzelmi hatást kelthet az előadásom a hallgatóságban.
+
+## Amit szeretnék tőled:
+
+1. **Érzelmi reakciók azonosítása:**
+   - Milyen elsődleges érzelmeket válthat ki a prezentációm (pl. lelkesedés, aggodalom, meglepetés, kíváncsiság)?
+   - Vannak-e olyan pontok, ahol érzelmi csúcspontok vagy mélypontok jelentkezhetnek?
+   - Hogyan változhatnak az érzelmek az előadás különböző szakaszaiban?
+   - Mely részek kelthetnek vegyes vagy ellentmondásos érzéseket?
+
+2. **Az érzelmi hatás értékelése:**
+   - Mennyire illeszkedik az érzelmi tónus a téma jellegéhez és a célközönséghez?
+   - Megfelelő egyensúlyban van-e a racionális tartalom és az érzelmi hatás?
+   - Van-e érzelmi ív vagy történet, ami végigvezet a prezentáción?
+   - Milyen érzelmi állapotban távozhat a hallgatóság az előadás után?
+
+3. **Javaslatok az érzelmi hatás erősítésére:**
+   - Hol lehetne érzelmi horgonyokat elhelyezni a prezentációban?
+   - Milyen történeteket, metaforákat vagy példákat lehetne beépíteni?
+   - Hogyan lehetne növelni az érzelmi kapcsolódást a témához?
+   - Milyen vizuális vagy verbális eszközökkel lehetne fokozni a kívánt érzelmi hatást?
+
+42|audience|Figyelem fenntartása (zero-shot)|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel a figyelem fenntartására és az érdeklődés megőrzésére. 
+Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, hogyan tartja fenn (vagy nem tartja fenn) a prezentációm a közönség figyelmét.
+## Amit szeretnék tőled:
+
+1. **A figyelem fenntartásának értékelése:**
+   - Melyek azok a pontok, ahol a közönség figyelme lankadhat?
+   - Vannak-e figyelemfelkeltő elemek, és ha igen, hatékonyak-e?
+   - Hogyan változik a figyelem intenzitása a prezentáció különböző szakaszaiban?
+   - Vannak-e túl hosszú vagy monoton részek az előadásban?
+
+2. **Figyelemfelkeltő elemek vizsgálata:**
+   - Mennyire hatékony a vizuális elemek használata a figyelem fenntartásában?
+   - Milyen ritmusban váltakoznak az információs blokkok?
+   - Mennyire segítik a figyelmet a szerkezeti elemek (alcímek, kiemelések, stb.)?
+   - Van-e interaktivitás vagy párbeszéd-lehetőség beépítve a figyelmet felkeltő módon?
+
+3. **Javaslatok a figyelem jobb fenntartására:**
+   - Hol és hogyan lehetne változatosabbá tenni az információátadást?
+   - Milyen figyelemfelkeltő technikákat lehetne alkalmazni?
+   - Hogyan lehetne javítani a prezentáció ritmusán?
+   - Milyen interaktív elemeket lehetne beépíteni?
+
+43|audience|Meggyőző erő (zero-shot)|
+Kérlek, értékeld a PowerPoint prezentációmat egy néző/hallgató szemszögéből, különös tekintettel annak meggyőző erejére. Alább találod a prezentáció tartalmát. Adj részletes visszajelzést arról, hogy mennyire
+voltál meggyőzve az elhangzott érvek és bemutatott adatok által.
+
+## Amit szeretnék tőled:
+
+1. **A meggyőzés hatékonyságának értékelése:**
+   - Meggyőzött-e a prezentáció a fő álláspontjáról?
+   - Melyek voltak a legerősebb és leggyengébb érvek?
+   - Mikor éreztem a meggyőzés csúcspontját - mely részeknél voltam leginkább meggyőzve?
+   - Voltak-e olyan érvek vagy adatok, amelyek csökkentették a meggyőző erőt?
+
+2. **Az érvelési technikák hatékonysága:**
+   - Mennyire volt eredményes az adatok felhasználása a meggyőzésben?
+   - Hatásosak voltak-e a használt retorikai eszközök (pl. történetek, hasonlatok, párhuzamok)?
+   - Hogyan befolyásolta a prezentáció struktúrája a meggyőző erőt?
+   - Milyen érzelmi hatást váltott ki a prezentáció, és ez hogyan erősítette vagy gyengítette a meggyőzést?
+
+3. **Javaslatok a meggyőző erő növelésére:**
+   - Hogyan lehetne erősíteni az érvelés logikai felépítését?
+   - Milyen további bizonyítékok vagy példák tehetnék meggyőzőbbé a prezentációt?
+   - Mely retorikai eszközöket lehetne hatékonyabban alkalmazni?
+   - Hogyan lehetne kezelni a potenciális ellenérveket vagy kételyeket?
