@@ -1,3 +1,3 @@
 # Vajda-Levente-ELTE-IK-szakdolgozat-BSC
 
-Az alábbi repository a szakdolgozatom promptjainak tárolására szolgál.
+The following repository is intended for storing the prompts of my thesis.
